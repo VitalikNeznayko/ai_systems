@@ -1,0 +1,121 @@
+﻿Тип тесту,Модель,Речення,Правильна мітка,Передбачення,Оцінка,Accuracy,"Час, с","Параметри, млн",ID моделі,Поріг впевненості,Прогноз прийнято,"Покриття, %"
+sentiment-analysis,multilingual_sentiment_small,"Dark Souls III має неймовірну атмосферу, я закохався в цей світ.",positive,positive,0.9994805455207824,0.9,0.249,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,Музика під час битви з Душею Попелу просто геніальна.,positive,positive,0.8049719929695129,0.9,0.249,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,"Досліджувати Лотрік було дуже цікаво, кожна локація дивує.",positive,positive,0.9839486479759216,0.9,0.249,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,"Бойова система чудова, а перемога над босом приносить задоволення.",positive,positive,0.990613341331482,0.9,0.249,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,Мені подобається похмурий стиль і деталізація світу гри.,positive,positive,0.996769905090332,0.9,0.249,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,"Складні бої змушують вчитися, і це робить перемоги особливими.",positive,positive,0.5714448690414429,0.9,0.249,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,Персонажі та їхні історії додають грі загадковості.,positive,positive,0.7916863560676575,0.9,0.249,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,"Зброя має різні стилі гри, тому цікаво експериментувати.",positive,positive,0.598180890083313,0.9,0.249,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,"Гра настільки захоплива, що я провів у ній цілий вечір.",positive,positive,0.9958956241607666,0.9,0.249,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,Фінальна битва залишила дуже сильне враження.,positive,positive,0.9875386953353882,0.9,0.249,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,"Бос постійно перемагає мене, і це вже страшенно дратує.",negative,negative,0.9983365535736084,0.9,0.249,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,"Керування здається незручним, особливо під час швидких боїв.",negative,negative,0.7649230360984802,0.9,0.249,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,Я загубився в локації й довго не міг знайти потрібний шлях.,negative,negative,0.9642997980117798,0.9,0.249,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,Деякі противники здаються несправедливо сильними.,negative,negative,0.7857354283332825,0.9,0.249,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,Після чергової поразки гра викликає лише розчарування.,negative,negative,0.8875048756599426,0.9,0.249,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,Камера іноді заважає стежити за рухами великого ворога.,negative,neutral,0.6009664535522461,0.9,0.249,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,"Мені не сподобалося, що важливі деталі сюжету так приховані.",negative,negative,0.8824025392532349,0.9,0.249,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,Повторювати один і той самий бій багато разів дуже втомлює.,negative,negative,0.9511867165565492,0.9,0.249,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,Деякі переходи між локаціями виглядають заплутаними.,negative,negative,0.6663236618041992,0.9,0.249,140.64,,,,
+sentiment-analysis,multilingual_sentiment_small,"Гра цікава, але окремі механіки здаються надто незручними.",negative,neutral,0.9614213705062866,0.9,0.249,140.64,,,,
+sentiment-analysis,tabularisai_sentiment,"Dark Souls III має неймовірну атмосферу, я закохався в цей світ.",positive,positive,0.4826436936855316,0.7,0.067,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,Музика під час битви з Душею Попелу просто геніальна.,positive,neutral,0.3071167469024658,0.7,0.067,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,"Досліджувати Лотрік було дуже цікаво, кожна локація дивує.",positive,positive,0.8976359367370605,0.7,0.067,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,"Бойова система чудова, а перемога над босом приносить задоволення.",positive,neutral,0.462267130613327,0.7,0.067,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,Мені подобається похмурий стиль і деталізація світу гри.,positive,neutral,0.4703871011734009,0.7,0.067,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,"Складні бої змушують вчитися, і це робить перемоги особливими.",positive,neutral,0.7587844729423523,0.7,0.067,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,Персонажі та їхні історії додають грі загадковості.,positive,neutral,0.8817037343978882,0.7,0.067,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,"Зброя має різні стилі гри, тому цікаво експериментувати.",positive,positive,0.7010992169380188,0.7,0.067,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,"Гра настільки захоплива, що я провів у ній цілий вечір.",positive,positive,0.6942760944366455,0.7,0.067,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,Фінальна битва залишила дуже сильне враження.,positive,positive,0.6753186583518982,0.7,0.067,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,"Бос постійно перемагає мене, і це вже страшенно дратує.",negative,negative,0.5511976480484009,0.7,0.067,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,"Керування здається незручним, особливо під час швидких боїв.",negative,negative,0.8550318479537964,0.7,0.067,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,Я загубився в локації й довго не міг знайти потрібний шлях.,negative,negative,0.7694029211997986,0.7,0.067,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,Деякі противники здаються несправедливо сильними.,negative,negative,0.9075972437858582,0.7,0.067,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,Після чергової поразки гра викликає лише розчарування.,negative,negative,0.6924072504043579,0.7,0.067,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,Камера іноді заважає стежити за рухами великого ворога.,negative,neutral,0.6820502281188965,0.7,0.067,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,"Мені не сподобалося, що важливі деталі сюжету так приховані.",negative,negative,0.8902627825737,0.7,0.067,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,Повторювати один і той самий бій багато разів дуже втомлює.,negative,negative,0.8375729322433472,0.7,0.067,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,Деякі переходи між локаціями виглядають заплутаними.,negative,negative,0.6681647896766663,0.7,0.067,135.33,,,,
+sentiment-analysis,tabularisai_sentiment,"Гра цікава, але окремі механіки здаються надто незручними.",negative,negative,0.8286839723587036,0.7,0.067,135.33,,,,
+sentiment-analysis,multilingual_sentiment_small,"Dark Souls III має неймовірну атмосферу, я закохався в цей світ.",positive,positive,0.9994805455207824,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.0,True,100.0
+sentiment-analysis,multilingual_sentiment_small,Музика під час битви з Душею Попелу просто геніальна.,positive,positive,0.8049719929695129,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.0,True,100.0
+sentiment-analysis,multilingual_sentiment_small,"Досліджувати Лотрік було дуже цікаво, кожна локація дивує.",positive,positive,0.9839486479759216,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.0,True,100.0
+sentiment-analysis,multilingual_sentiment_small,"Бойова система чудова, а перемога над босом приносить задоволення.",positive,positive,0.990613341331482,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.0,True,100.0
+sentiment-analysis,multilingual_sentiment_small,Мені подобається похмурий стиль і деталізація світу гри.,positive,positive,0.996769905090332,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.0,True,100.0
+sentiment-analysis,multilingual_sentiment_small,"Складні бої змушують вчитися, і це робить перемоги особливими.",positive,positive,0.5714448690414429,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.0,True,100.0
+sentiment-analysis,multilingual_sentiment_small,Персонажі та їхні історії додають грі загадковості.,positive,positive,0.7916863560676575,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.0,True,100.0
+sentiment-analysis,multilingual_sentiment_small,"Зброя має різні стилі гри, тому цікаво експериментувати.",positive,positive,0.598180890083313,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.0,True,100.0
+sentiment-analysis,multilingual_sentiment_small,"Гра настільки захоплива, що я провів у ній цілий вечір.",positive,positive,0.9958956241607666,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.0,True,100.0
+sentiment-analysis,multilingual_sentiment_small,Фінальна битва залишила дуже сильне враження.,positive,positive,0.9875386953353882,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.0,True,100.0
+sentiment-analysis,multilingual_sentiment_small,"Бос постійно перемагає мене, і це вже страшенно дратує.",negative,negative,0.9983365535736084,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.0,True,100.0
+sentiment-analysis,multilingual_sentiment_small,"Керування здається незручним, особливо під час швидких боїв.",negative,negative,0.7649230360984802,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.0,True,100.0
+sentiment-analysis,multilingual_sentiment_small,Я загубився в локації й довго не міг знайти потрібний шлях.,negative,negative,0.9642997980117798,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.0,True,100.0
+sentiment-analysis,multilingual_sentiment_small,Деякі противники здаються несправедливо сильними.,negative,negative,0.7857354283332825,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.0,True,100.0
+sentiment-analysis,multilingual_sentiment_small,Після чергової поразки гра викликає лише розчарування.,negative,negative,0.8875048756599426,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.0,True,100.0
+sentiment-analysis,multilingual_sentiment_small,Камера іноді заважає стежити за рухами великого ворога.,negative,neutral,0.6009664535522461,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.0,True,100.0
+sentiment-analysis,multilingual_sentiment_small,"Мені не сподобалося, що важливі деталі сюжету так приховані.",negative,negative,0.8824025392532349,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.0,True,100.0
+sentiment-analysis,multilingual_sentiment_small,Повторювати один і той самий бій багато разів дуже втомлює.,negative,negative,0.9511867165565492,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.0,True,100.0
+sentiment-analysis,multilingual_sentiment_small,Деякі переходи між локаціями виглядають заплутаними.,negative,negative,0.6663236618041992,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.0,True,100.0
+sentiment-analysis,multilingual_sentiment_small,"Гра цікава, але окремі механіки здаються надто незручними.",negative,neutral,0.9614213705062866,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.0,True,100.0
+sentiment-analysis,multilingual_sentiment_small,"Dark Souls III має неймовірну атмосферу, я закохався в цей світ.",positive,positive,0.9994805455207824,0.889,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.6,True,90.0
+sentiment-analysis,multilingual_sentiment_small,Музика під час битви з Душею Попелу просто геніальна.,positive,positive,0.8049719929695129,0.889,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.6,True,90.0
+sentiment-analysis,multilingual_sentiment_small,"Досліджувати Лотрік було дуже цікаво, кожна локація дивує.",positive,positive,0.9839486479759216,0.889,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.6,True,90.0
+sentiment-analysis,multilingual_sentiment_small,"Бойова система чудова, а перемога над босом приносить задоволення.",positive,positive,0.990613341331482,0.889,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.6,True,90.0
+sentiment-analysis,multilingual_sentiment_small,Мені подобається похмурий стиль і деталізація світу гри.,positive,positive,0.996769905090332,0.889,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.6,True,90.0
+sentiment-analysis,multilingual_sentiment_small,"Складні бої змушують вчитися, і це робить перемоги особливими.",positive,positive,0.5714448690414429,0.889,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.6,False,90.0
+sentiment-analysis,multilingual_sentiment_small,Персонажі та їхні історії додають грі загадковості.,positive,positive,0.7916863560676575,0.889,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.6,True,90.0
+sentiment-analysis,multilingual_sentiment_small,"Зброя має різні стилі гри, тому цікаво експериментувати.",positive,positive,0.598180890083313,0.889,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.6,False,90.0
+sentiment-analysis,multilingual_sentiment_small,"Гра настільки захоплива, що я провів у ній цілий вечір.",positive,positive,0.9958956241607666,0.889,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.6,True,90.0
+sentiment-analysis,multilingual_sentiment_small,Фінальна битва залишила дуже сильне враження.,positive,positive,0.9875386953353882,0.889,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.6,True,90.0
+sentiment-analysis,multilingual_sentiment_small,"Бос постійно перемагає мене, і це вже страшенно дратує.",negative,negative,0.9983365535736084,0.889,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.6,True,90.0
+sentiment-analysis,multilingual_sentiment_small,"Керування здається незручним, особливо під час швидких боїв.",negative,negative,0.7649230360984802,0.889,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.6,True,90.0
+sentiment-analysis,multilingual_sentiment_small,Я загубився в локації й довго не міг знайти потрібний шлях.,negative,negative,0.9642997980117798,0.889,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.6,True,90.0
+sentiment-analysis,multilingual_sentiment_small,Деякі противники здаються несправедливо сильними.,negative,negative,0.7857354283332825,0.889,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.6,True,90.0
+sentiment-analysis,multilingual_sentiment_small,Після чергової поразки гра викликає лише розчарування.,negative,negative,0.8875048756599426,0.889,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.6,True,90.0
+sentiment-analysis,multilingual_sentiment_small,Камера іноді заважає стежити за рухами великого ворога.,negative,neutral,0.6009664535522461,0.889,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.6,True,90.0
+sentiment-analysis,multilingual_sentiment_small,"Мені не сподобалося, що важливі деталі сюжету так приховані.",negative,negative,0.8824025392532349,0.889,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.6,True,90.0
+sentiment-analysis,multilingual_sentiment_small,Повторювати один і той самий бій багато разів дуже втомлює.,negative,negative,0.9511867165565492,0.889,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.6,True,90.0
+sentiment-analysis,multilingual_sentiment_small,Деякі переходи між локаціями виглядають заплутаними.,negative,negative,0.6663236618041992,0.889,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.6,True,90.0
+sentiment-analysis,multilingual_sentiment_small,"Гра цікава, але окремі механіки здаються надто незручними.",negative,neutral,0.9614213705062866,0.889,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.6,True,90.0
+sentiment-analysis,multilingual_sentiment_small,"Dark Souls III має неймовірну атмосферу, я закохався в цей світ.",positive,positive,0.9994805455207824,0.938,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.75,True,80.0
+sentiment-analysis,multilingual_sentiment_small,Музика під час битви з Душею Попелу просто геніальна.,positive,positive,0.8049719929695129,0.938,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.75,True,80.0
+sentiment-analysis,multilingual_sentiment_small,"Досліджувати Лотрік було дуже цікаво, кожна локація дивує.",positive,positive,0.9839486479759216,0.938,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.75,True,80.0
+sentiment-analysis,multilingual_sentiment_small,"Бойова система чудова, а перемога над босом приносить задоволення.",positive,positive,0.990613341331482,0.938,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.75,True,80.0
+sentiment-analysis,multilingual_sentiment_small,Мені подобається похмурий стиль і деталізація світу гри.,positive,positive,0.996769905090332,0.938,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.75,True,80.0
+sentiment-analysis,multilingual_sentiment_small,"Складні бої змушують вчитися, і це робить перемоги особливими.",positive,positive,0.5714448690414429,0.938,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.75,False,80.0
+sentiment-analysis,multilingual_sentiment_small,Персонажі та їхні історії додають грі загадковості.,positive,positive,0.7916863560676575,0.938,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.75,True,80.0
+sentiment-analysis,multilingual_sentiment_small,"Зброя має різні стилі гри, тому цікаво експериментувати.",positive,positive,0.598180890083313,0.938,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.75,False,80.0
+sentiment-analysis,multilingual_sentiment_small,"Гра настільки захоплива, що я провів у ній цілий вечір.",positive,positive,0.9958956241607666,0.938,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.75,True,80.0
+sentiment-analysis,multilingual_sentiment_small,Фінальна битва залишила дуже сильне враження.,positive,positive,0.9875386953353882,0.938,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.75,True,80.0
+sentiment-analysis,multilingual_sentiment_small,"Бос постійно перемагає мене, і це вже страшенно дратує.",negative,negative,0.9983365535736084,0.938,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.75,True,80.0
+sentiment-analysis,multilingual_sentiment_small,"Керування здається незручним, особливо під час швидких боїв.",negative,negative,0.7649230360984802,0.938,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.75,True,80.0
+sentiment-analysis,multilingual_sentiment_small,Я загубився в локації й довго не міг знайти потрібний шлях.,negative,negative,0.9642997980117798,0.938,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.75,True,80.0
+sentiment-analysis,multilingual_sentiment_small,Деякі противники здаються несправедливо сильними.,negative,negative,0.7857354283332825,0.938,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.75,True,80.0
+sentiment-analysis,multilingual_sentiment_small,Після чергової поразки гра викликає лише розчарування.,negative,negative,0.8875048756599426,0.938,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.75,True,80.0
+sentiment-analysis,multilingual_sentiment_small,Камера іноді заважає стежити за рухами великого ворога.,negative,neutral,0.6009664535522461,0.938,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.75,False,80.0
+sentiment-analysis,multilingual_sentiment_small,"Мені не сподобалося, що важливі деталі сюжету так приховані.",negative,negative,0.8824025392532349,0.938,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.75,True,80.0
+sentiment-analysis,multilingual_sentiment_small,Повторювати один і той самий бій багато разів дуже втомлює.,negative,negative,0.9511867165565492,0.938,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.75,True,80.0
+sentiment-analysis,multilingual_sentiment_small,Деякі переходи між локаціями виглядають заплутаними.,negative,negative,0.6663236618041992,0.938,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.75,False,80.0
+sentiment-analysis,multilingual_sentiment_small,"Гра цікава, але окремі механіки здаються надто незручними.",negative,neutral,0.9614213705062866,0.938,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.75,True,80.0
+sentiment-analysis,multilingual_sentiment_small,"Dark Souls III має неймовірну атмосферу, я закохався в цей світ.",positive,positive,0.9994805455207825,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.9,True,50.0
+sentiment-analysis,multilingual_sentiment_small,Музика під час битви з Душею Попелу просто геніальна.,positive,positive,0.8049719929695129,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.9,False,50.0
+sentiment-analysis,multilingual_sentiment_small,"Досліджувати Лотрік було дуже цікаво, кожна локація дивує.",positive,positive,0.9839486479759216,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.9,True,50.0
+sentiment-analysis,multilingual_sentiment_small,"Бойова система чудова, а перемога над босом приносить задоволення.",positive,positive,0.9906133413314819,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.9,True,50.0
+sentiment-analysis,multilingual_sentiment_small,Мені подобається похмурий стиль і деталізація світу гри.,positive,positive,0.996769905090332,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.9,True,50.0
+sentiment-analysis,multilingual_sentiment_small,"Складні бої змушують вчитися, і це робить перемоги особливими.",positive,positive,0.5714448690414429,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.9,False,50.0
+sentiment-analysis,multilingual_sentiment_small,Персонажі та їхні історії додають грі загадковості.,positive,positive,0.7916863560676575,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.9,False,50.0
+sentiment-analysis,multilingual_sentiment_small,"Зброя має різні стилі гри, тому цікаво експериментувати.",positive,positive,0.598180890083313,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.9,False,50.0
+sentiment-analysis,multilingual_sentiment_small,"Гра настільки захоплива, що я провів у ній цілий вечір.",positive,positive,0.9958956241607666,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.9,True,50.0
+sentiment-analysis,multilingual_sentiment_small,Фінальна битва залишила дуже сильне враження.,positive,positive,0.9875386953353882,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.9,True,50.0
+sentiment-analysis,multilingual_sentiment_small,"Бос постійно перемагає мене, і це вже страшенно дратує.",negative,negative,0.9983365535736084,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.9,True,50.0
+sentiment-analysis,multilingual_sentiment_small,"Керування здається незручним, особливо під час швидких боїв.",negative,negative,0.7649230360984802,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.9,False,50.0
+sentiment-analysis,multilingual_sentiment_small,Я загубився в локації й довго не міг знайти потрібний шлях.,negative,negative,0.9642997980117798,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.9,True,50.0
+sentiment-analysis,multilingual_sentiment_small,Деякі противники здаються несправедливо сильними.,negative,negative,0.7857354283332825,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.9,False,50.0
+sentiment-analysis,multilingual_sentiment_small,Після чергової поразки гра викликає лише розчарування.,negative,negative,0.8875048756599426,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.9,False,50.0
+sentiment-analysis,multilingual_sentiment_small,Камера іноді заважає стежити за рухами великого ворога.,negative,neutral,0.6009664535522461,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.9,False,50.0
+sentiment-analysis,multilingual_sentiment_small,"Мені не сподобалося, що важливі деталі сюжету так приховані.",negative,negative,0.8824025392532349,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.9,False,50.0
+sentiment-analysis,multilingual_sentiment_small,Повторювати один і той самий бій багато разів дуже втомлює.,negative,negative,0.9511867165565491,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.9,True,50.0
+sentiment-analysis,multilingual_sentiment_small,Деякі переходи між локаціями виглядають заплутаними.,negative,negative,0.6663236618041992,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.9,False,50.0
+sentiment-analysis,multilingual_sentiment_small,"Гра цікава, але окремі механіки здаються надто незручними.",negative,neutral,0.9614213705062866,0.9,0.219,140.64,Horizon-Labs/multilingual-sentiment-small,0.9,True,50.0
