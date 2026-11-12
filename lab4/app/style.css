@@ -1,0 +1,258 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    min-height: 100vh;
+    background:
+        radial-gradient(ellipse at top, #172b43 0%, #0b1422 55%, #070d17 100%);
+    color: #d5dfeb;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.app-container {
+    width: 100%;
+    max-width: 1000px;
+    min-height: 100vh;
+    margin: 0 auto;
+    padding: 35px 20px;
+
+    display: flex;
+    flex-direction: column;
+}
+
+/* Заголовок */
+
+.header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.header-icon {
+    font-size: 42px;
+    margin-bottom: 10px;
+    filter: drop-shadow(0 0 12px #5b91c7);
+}
+
+.header h1 {
+    color: #a9c9ec;
+    font-size: 36px;
+    letter-spacing: 2px;
+    text-shadow: 0 0 18px #315b85;
+}
+
+.subtitle {
+    margin-top: 8px;
+    color: #7898b9;
+    font-size: 16px;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+}
+
+.header-description {
+    max-width: 600px;
+    margin: 20px auto 0;
+    color: #9aabbd;
+    line-height: 1.6;
+    font-size: 15px;
+}
+
+/* Основний контейнер */
+
+.chat-container {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    min-height: 500px;
+
+    background: rgba(13, 24, 39, 0.95);
+    border: 1px solid #29435f;
+    border-radius: 12px;
+
+    box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+}
+
+.chat {
+    flex: 1;
+    min-height: 350px;
+    max-height: 600px;
+
+    padding: 25px;
+    overflow-y: auto;
+
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+/* Повідомлення */
+
+.message {
+    display: flex;
+    flex-direction: column;
+
+    width: fit-content;
+    max-width: 78%;
+    padding: 12px 17px;
+
+    border-radius: 12px;
+    line-height: 1.6;
+    overflow-wrap: anywhere;
+    white-space: pre-wrap;
+}
+
+.message.user {
+    align-self: flex-end;
+
+    background: #203b59;
+    border: 1px solid #355b80;
+    border-bottom-right-radius: 3px;
+}
+
+.message.assistant {
+    align-self: flex-start;
+
+    background: #172638;
+    border: 1px solid #30465e;
+    border-bottom-left-radius: 3px;
+}
+
+.message-author {
+    color: #91b9e2;
+    font-weight: bold;
+    margin-bottom: 5px;
+    font-size: 13px;
+}
+
+.message-content {
+    color: #d4dfeb;
+    font-size: 15px;
+}
+
+/* Форма введення */
+
+.chat-form {
+    display: flex;
+    gap: 12px;
+    padding: 18px;
+
+    background: #101d2d;
+    border-top: 1px solid #29435f;
+}
+
+.chat-form textarea {
+    flex: 1;
+    min-height: 46px;
+    max-height: 150px;
+
+    resize: none;
+    padding: 13px 15px;
+
+    background: #17283c;
+    border: 1px solid #34516f;
+    border-radius: 8px;
+
+    color: #e0e9f3;
+    font-family: inherit;
+    font-size: 15px;
+
+    outline: none;
+    transition: border-color 0.2s;
+}
+
+.chat-form textarea:focus {
+    border-color: #6c9bc8;
+}
+
+.chat-form textarea::placeholder {
+    color: #8295aa;
+}
+
+.chat-form button {
+    min-width: 125px;
+    padding: 0 18px;
+
+    background: #31577e;
+    border: 1px solid #527da7;
+    border-radius: 8px;
+
+    color: #e5f0fc;
+    font-family: inherit;
+    font-size: 14px;
+    font-weight: bold;
+
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.chat-form button:hover {
+    background: #426d98;
+}
+
+.chat-form button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+/* Нижній підпис */
+
+.footer-note {
+    padding: 12px;
+    text-align: center;
+
+    color: #71869e;
+    font-size: 12px;
+    letter-spacing: 1px;
+
+    border-top: 1px solid #263b52;
+}
+
+/* Прокручування */
+
+.chat::-webkit-scrollbar {
+    width: 7px;
+}
+
+.chat::-webkit-scrollbar-thumb {
+    background: #385674;
+    border-radius: 5px;
+}
+
+.chat::-webkit-scrollbar-track {
+    background: #101c2a;
+}
+
+/* Мобільна адаптація */
+
+@media (max-width: 600px) {
+    .app-container {
+        padding: 15px 10px;
+    }
+
+    .header h1 {
+        font-size: 28px;
+    }
+
+    .chat-container {
+        min-height: 70vh;
+    }
+
+    .chat {
+        padding: 15px;
+    }
+
+    .message {
+        max-width: 92%;
+    }
+
+    .chat-form {
+        flex-direction: column;
+    }
+
+    .chat-form button {
+        min-height: 42px;
+    }
+}

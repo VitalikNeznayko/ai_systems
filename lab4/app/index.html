@@ -1,0 +1,79 @@
+<!--
+      python -m http.server 8000 --bind 127.0.0.1      (у цій теці)
+      http://localhost:8000/index.html
+-->
+ 
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Вісник Лотріка</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <main class="app-container">
+
+        <header class="header">
+            <div class="header-icon">🔥</div>
+
+            <h1>Вісник Лотріка</h1>
+            <p class="subtitle">Хроніки Попелястого</p>
+
+            <div class="header-description">
+                Мандрівнику, світ Лотріка приховує багато небезпек.
+                Запитуй про босів, їхні атаки та шлях до перемоги.
+            </div>
+        </header>
+
+        <section class="chat-container">
+
+            <div id="chat" class="chat">
+
+                <div class="message assistant">
+                    <div class="message-author">
+                        Вісник Лотріка
+                    </div>
+
+                    <div class="message-content">
+                        Вітаю тебе, Попелястий.
+
+                        Я допоможу тобі знайти шлях крізь землі Лотріка,
+                        розповім про могутніх босів, їхні атаки та слабкості.
+
+                        Запитуй, і нехай полум'я веде тебе!
+                    </div>
+                </div>
+
+            </div>
+
+            <form id="chat-form" class="chat-form">
+
+                <textarea
+                    id="user-input"
+                    placeholder="Запитай Вісника про свого супротивника..."
+                    rows="1"
+                    required
+                ></textarea>
+
+                <button type="submit" id="send-button">
+                    Надіслати
+                </button>
+
+            </form>
+
+            <div class="footer-note">
+                Вісник Лотріка • Dark Souls III
+            </div>
+
+        </section>
+
+    </main>
+
+    <script type="module" src="script.js"></script>
+
+</body>
+</html>
