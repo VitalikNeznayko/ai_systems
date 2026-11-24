@@ -1,0 +1,2455 @@
+[
+  {
+    "id": "boss_001",
+    "category": "boss",
+    "title": "Iudex Gundyr",
+    "content": "**Бос:** Судія Ґундир (Iudex Gundyr).\n**Локація:** Кладовище попелу (Cemetery of Ash).\n**Фази:** 2.\n**Нагорода:** Coiled Sword.",
+    "tags": [
+      "boss",
+      "боси",
+      "dark souls 3",
+      "iudex gundyr",
+      "cemetery of ash",
+      "main",
+      "судія ґундир"
+    ],
+    "source": "Довідник босів Dark Souls III (перевірено за DS3 wiki)",
+    "question": "Що потрібно знати про боса «Судія Ґундир» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Де знаходиться Судія Ґундир?",
+        "a": "Судія Ґундир (Iudex Gundyr) знаходиться в локації Кладовище попелу (Cemetery of Ash)."
+      },
+      {
+        "q": "Скільки фаз має Судія Ґундир?",
+        "a": "Судія Ґундир має 2 фази."
+      },
+      {
+        "q": "Опиши фази боса Судія Ґундир.",
+        "a": "**Перша фаза:** Звичайний бій.\n**Друга фаза:** Перетворення на темну істоту."
+      },
+      {
+        "q": "Яка нагорода за боса Судія Ґундир?",
+        "a": "Нагорода за боса Судія Ґундир: Coiled Sword."
+      },
+      {
+        "q": "Чи обов'язково перемагати боса Судія Ґундир?",
+        "a": "Судія Ґундир є основним босом гри (обов'язковим для проходження)."
+      },
+      {
+        "q": "Як перемогти боса Судія Ґундир?",
+        "a": "**Тактика:**\n- Ухиляйся від його атак і атакуй під час пауз між комбінаціями.\n- У другій фазі будь уважним до збільшеної дальності його атак."
+      }
+    ]
+  },
+  {
+    "id": "boss_002",
+    "category": "boss",
+    "title": "Vordt of the Boreal Valley",
+    "content": "**Бос:** Вордт із Бореальної долини (Vordt of the Boreal Valley).\n**Локація:** Висока стіна Лотріка (High Wall of Lothric).\n**Фази:** 2.\n**Нагорода:** Soul of Boreal Valley Vordt.",
+    "tags": [
+      "boss",
+      "боси",
+      "dark souls 3",
+      "vordt of the boreal valley",
+      "high wall of lothric",
+      "main",
+      "вордт із бореальної долини"
+    ],
+    "source": "Довідник босів Dark Souls III (перевірено за DS3 wiki)",
+    "question": "Що потрібно знати про боса «Вордт» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Де знаходиться Вордт?",
+        "a": "Вордт із Бореальної долини (Vordt of the Boreal Valley) знаходиться в локації Висока стіна Лотріка (High Wall of Lothric)."
+      },
+      {
+        "q": "Скільки фаз має Вордт?",
+        "a": "Вордт має 2 фази."
+      },
+      {
+        "q": "Опиши фази боса Вордт.",
+        "a": "**Перша фаза:** Звичайні атаки.\n**Друга фаза:** Посилені атаки з ривками та морозом."
+      },
+      {
+        "q": "Яка нагорода за боса Вордт?",
+        "a": "Нагорода за боса Вордт: Soul of Boreal Valley Vordt."
+      },
+      {
+        "q": "Чи обов'язково перемагати боса Вордт?",
+        "a": "Вордт є основним босом гри (обов'язковим для проходження)."
+      },
+      {
+        "q": "Як перемогти боса Вордт?",
+        "a": "**Тактика:**\n- Вивчай ритм атак, ухиляйся і контратакуй у паузах між комбінаціями.\n- Зверни увагу на зміни в бою: звичайні атаки; посилені атаки з ривками та морозом.\n- Точних назв атак і детальнішої перевіреної тактики для цього боса в мене немає."
+      }
+    ]
+  },
+  {
+    "id": "boss_003",
+    "category": "boss",
+    "title": "Curse-Rotted Greatwood",
+    "content": "**Бос:** Curse-Rotted Greatwood.\n**Локація:** Undead Settlement, Pit of Hollows.\n**Фази:** 2.\n**Нагорода:** Soul of the Rotted Greatwood, Transposing Kiln.",
+    "tags": [
+      "boss",
+      "боси",
+      "dark souls 3",
+      "curse-rotted greatwood",
+      "undead settlement",
+      "optional"
+    ],
+    "source": "Довідник босів Dark Souls III (перевірено за DS3 wiki)",
+    "question": "Що потрібно знати про боса «Curse-Rotted Greatwood» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Де знаходиться Curse-Rotted Greatwood?",
+        "a": "Curse-Rotted Greatwood знаходиться в локації Undead Settlement, Pit of Hollows."
+      },
+      {
+        "q": "Скільки фаз має Curse-Rotted Greatwood?",
+        "a": "Curse-Rotted Greatwood має 2 фази."
+      },
+      {
+        "q": "Опиши фази боса Curse-Rotted Greatwood.",
+        "a": "**Перша фаза:** Бій на площі.\n**Друга фаза:** Бій у підземній арені."
+      },
+      {
+        "q": "Яка нагорода за боса Curse-Rotted Greatwood?",
+        "a": "Нагорода за боса Curse-Rotted Greatwood: Soul of the Rotted Greatwood, Transposing Kiln."
+      },
+      {
+        "q": "Чи обов'язково перемагати боса Curse-Rotted Greatwood?",
+        "a": "Curse-Rotted Greatwood є необов'язковим босом основної гри."
+      },
+      {
+        "q": "Як перемогти боса Curse-Rotted Greatwood?",
+        "a": "**Тактика:**\n- Вивчай ритм атак, ухиляйся і контратакуй у паузах між комбінаціями.\n- Зверни увагу на зміни в бою: бій на площі; бій у підземній арені.\n- Точних назв атак і детальнішої перевіреної тактики для цього боса в мене немає."
+      }
+    ]
+  },
+  {
+    "id": "boss_004",
+    "category": "boss",
+    "title": "Crystal Sage",
+    "content": "**Бос:** Crystal Sage.\n**Локація:** Road of Sacrifices.\n**Фази:** 2.\n**Нагорода:** Soul of a Crystal Sage.",
+    "tags": [
+      "boss",
+      "боси",
+      "dark souls 3",
+      "crystal sage",
+      "road of sacrifices",
+      "main"
+    ],
+    "source": "Довідник босів Dark Souls III (перевірено за DS3 wiki)",
+    "question": "Що потрібно знати про боса «Crystal Sage» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Де знаходиться Crystal Sage?",
+        "a": "Crystal Sage знаходиться в локації Road of Sacrifices."
+      },
+      {
+        "q": "Скільки фаз має Crystal Sage?",
+        "a": "Crystal Sage має 2 фази."
+      },
+      {
+        "q": "Опиши фази боса Crystal Sage.",
+        "a": "**Перша фаза:** Магічні атаки.\n**Друга фаза:** Поява копій."
+      },
+      {
+        "q": "Яка нагорода за боса Crystal Sage?",
+        "a": "Нагорода за боса Crystal Sage: Soul of a Crystal Sage."
+      },
+      {
+        "q": "Чи обов'язково перемагати боса Crystal Sage?",
+        "a": "Crystal Sage є основним босом гри (обов'язковим для проходження)."
+      },
+      {
+        "q": "Як перемогти боса Crystal Sage?",
+        "a": "**Тактика:**\n- Вивчай ритм атак, ухиляйся і контратакуй у паузах між комбінаціями.\n- Зверни увагу на зміни в бою: магічні атаки; поява копій.\n- Точних назв атак і детальнішої перевіреної тактики для цього боса в мене немає."
+      }
+    ]
+  },
+  {
+    "id": "boss_005",
+    "category": "boss",
+    "title": "Deacons of the Deep",
+    "content": "**Бос:** Deacons of the Deep.\n**Локація:** Cathedral of the Deep.\n**Фази:** 2.\n**Нагорода:** Soul of the Deacons of the Deep, Small Doll.",
+    "tags": [
+      "boss",
+      "боси",
+      "dark souls 3",
+      "deacons of the deep",
+      "cathedral of the deep",
+      "main"
+    ],
+    "source": "Довідник босів Dark Souls III (перевірено за DS3 wiki)",
+    "question": "Що потрібно знати про боса «Deacons of the Deep» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Де знаходиться Deacons of the Deep?",
+        "a": "Deacons of the Deep знаходиться в локації Cathedral of the Deep."
+      },
+      {
+        "q": "Скільки фаз має Deacons of the Deep?",
+        "a": "Deacons of the Deep має 2 фази."
+      },
+      {
+        "q": "Опиши фази боса Deacons of the Deep.",
+        "a": "**Перша фаза:** Боротьба з групою дияконів.\n**Друга фаза:** Посилення проклять."
+      },
+      {
+        "q": "Яка нагорода за боса Deacons of the Deep?",
+        "a": "Нагорода за боса Deacons of the Deep: Soul of the Deacons of the Deep, Small Doll."
+      },
+      {
+        "q": "Чи обов'язково перемагати боса Deacons of the Deep?",
+        "a": "Deacons of the Deep є основним босом гри (обов'язковим для проходження)."
+      },
+      {
+        "q": "Як перемогти боса Deacons of the Deep?",
+        "a": "**Тактика:**\n- Вивчай ритм атак, ухиляйся і контратакуй у паузах між комбінаціями.\n- Зверни увагу на зміни в бою: боротьба з групою дияконів; посилення проклять.\n- Точних назв атак і детальнішої перевіреної тактики для цього боса в мене немає."
+      }
+    ]
+  },
+  {
+    "id": "boss_006",
+    "category": "boss",
+    "title": "Abyss Watchers",
+    "content": "**Бос:** Abyss Watchers.\n**Локація:** Farron Keep.\n**Фази:** 2.\n**Нагорода:** Soul of the Blood of the Wolf, Cinders of a Lord.",
+    "tags": [
+      "boss",
+      "боси",
+      "dark souls 3",
+      "abyss watchers",
+      "farron keep",
+      "main"
+    ],
+    "source": "Довідник босів Dark Souls III (перевірено за DS3 wiki)",
+    "question": "Що потрібно знати про боса «Abyss Watchers» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Де знаходиться Abyss Watchers?",
+        "a": "Abyss Watchers знаходиться в локації Farron Keep."
+      },
+      {
+        "q": "Скільки фаз має Abyss Watchers?",
+        "a": "Abyss Watchers має 2 фази."
+      },
+      {
+        "q": "Опиши фази боса Abyss Watchers.",
+        "a": "**Перша фаза:** Кілька Вартових.\n**Друга фаза:** Один Вартовий із палаючим мечем."
+      },
+      {
+        "q": "Яка нагорода за боса Abyss Watchers?",
+        "a": "Нагорода за боса Abyss Watchers: Soul of the Blood of the Wolf, Cinders of a Lord."
+      },
+      {
+        "q": "Чи обов'язково перемагати боса Abyss Watchers?",
+        "a": "Abyss Watchers є основним босом гри (обов'язковим для проходження)."
+      },
+      {
+        "q": "Як перемогти боса Abyss Watchers?",
+        "a": "**Тактика:**\n- Вивчай ритм атак, ухиляйся і контратакуй у паузах між комбінаціями.\n- Зверни увагу на зміни в бою: кілька Вартових; один Вартовий із палаючим мечем.\n- Точних назв атак і детальнішої перевіреної тактики для цього боса в мене немає."
+      }
+    ]
+  },
+  {
+    "id": "boss_007",
+    "category": "boss",
+    "title": "High Lord Wolnir",
+    "content": "**Бос:** High Lord Wolnir.\n**Локація:** Catacombs of Carthus.\n**Фази:** 1.\n**Нагорода:** Soul of High Lord Wolnir.",
+    "tags": [
+      "boss",
+      "боси",
+      "dark souls 3",
+      "high lord wolnir",
+      "catacombs of carthus",
+      "main"
+    ],
+    "source": "Довідник босів Dark Souls III (перевірено за DS3 wiki)",
+    "question": "Що потрібно знати про боса «High Lord Wolnir» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Де знаходиться High Lord Wolnir?",
+        "a": "High Lord Wolnir знаходиться в локації Catacombs of Carthus."
+      },
+      {
+        "q": "Скільки фаз має High Lord Wolnir?",
+        "a": "High Lord Wolnir має одну фазу: бій із поступовим знищенням браслетів."
+      },
+      {
+        "q": "Яка нагорода за боса High Lord Wolnir?",
+        "a": "Нагорода за боса High Lord Wolnir: Soul of High Lord Wolnir."
+      },
+      {
+        "q": "Чи обов'язково перемагати боса High Lord Wolnir?",
+        "a": "High Lord Wolnir є основним босом гри (обов'язковим для проходження)."
+      },
+      {
+        "q": "Як перемогти боса High Lord Wolnir?",
+        "a": "**Тактика:**\n- Вивчай ритм атак, ухиляйся і контратакуй у паузах між комбінаціями.\n- Зверни увагу на зміни в бою: бій із поступовим знищенням браслетів.\n- Точних назв атак і детальнішої перевіреної тактики для цього боса в мене немає."
+      }
+    ]
+  },
+  {
+    "id": "boss_008",
+    "category": "boss",
+    "title": "Old Demon King",
+    "content": "**Бос:** Old Demon King.\n**Локація:** Smouldering Lake.\n**Фази:** 1.\n**Нагорода:** Soul of the Old Demon King.",
+    "tags": [
+      "boss",
+      "боси",
+      "dark souls 3",
+      "old demon king",
+      "smouldering lake",
+      "optional"
+    ],
+    "source": "Довідник босів Dark Souls III (перевірено за DS3 wiki)",
+    "question": "Що потрібно знати про боса «Old Demon King» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Де знаходиться Old Demon King?",
+        "a": "Old Demon King знаходиться в локації Smouldering Lake."
+      },
+      {
+        "q": "Скільки фаз має Old Demon King?",
+        "a": "Old Demon King має одну фазу: вогняні атаки та удари зброєю."
+      },
+      {
+        "q": "Яка нагорода за боса Old Demon King?",
+        "a": "Нагорода за боса Old Demon King: Soul of the Old Demon King."
+      },
+      {
+        "q": "Чи обов'язково перемагати боса Old Demon King?",
+        "a": "Old Demon King є необов'язковим босом основної гри."
+      },
+      {
+        "q": "Як перемогти боса Old Demon King?",
+        "a": "**Тактика:**\n- Вивчай ритм атак, ухиляйся і контратакуй у паузах між комбінаціями.\n- Зверни увагу на зміни в бою: вогняні атаки та удари зброєю.\n- Точних назв атак і детальнішої перевіреної тактики для цього боса в мене немає."
+      }
+    ]
+  },
+  {
+    "id": "boss_009",
+    "category": "boss",
+    "title": "Pontiff Sulyvahn",
+    "content": "**Бос:** Pontiff Sulyvahn.\n**Локація:** Irithyll of the Boreal Valley.\n**Фази:** 2.\n**Нагорода:** Soul of Pontiff Sulyvahn.",
+    "tags": [
+      "boss",
+      "боси",
+      "dark souls 3",
+      "pontiff sulyvahn",
+      "irithyll of the boreal valley",
+      "main"
+    ],
+    "source": "Довідник босів Dark Souls III (перевірено за DS3 wiki)",
+    "question": "Що потрібно знати про боса «Pontiff Sulyvahn» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Де знаходиться Pontiff Sulyvahn?",
+        "a": "Pontiff Sulyvahn знаходиться в локації Irithyll of the Boreal Valley."
+      },
+      {
+        "q": "Скільки фаз має Pontiff Sulyvahn?",
+        "a": "Pontiff Sulyvahn має 2 фази."
+      },
+      {
+        "q": "Опиши фази боса Pontiff Sulyvahn.",
+        "a": "**Перша фаза:** Атаки двома мечами.\n**Друга фаза:** Поява тіньового двійника."
+      },
+      {
+        "q": "Яка нагорода за боса Pontiff Sulyvahn?",
+        "a": "Нагорода за боса Pontiff Sulyvahn: Soul of Pontiff Sulyvahn."
+      },
+      {
+        "q": "Чи обов'язково перемагати боса Pontiff Sulyvahn?",
+        "a": "Pontiff Sulyvahn є основним босом гри (обов'язковим для проходження)."
+      },
+      {
+        "q": "Як перемогти боса Pontiff Sulyvahn?",
+        "a": "**Тактика:**\n- Вивчай ритм атак, ухиляйся і контратакуй у паузах між комбінаціями.\n- Зверни увагу на зміни в бою: атаки двома мечами; поява тіньового двійника.\n- Точних назв атак і детальнішої перевіреної тактики для цього боса в мене немає."
+      }
+    ]
+  },
+  {
+    "id": "boss_010",
+    "category": "boss",
+    "title": "Aldrich, Devourer of Gods",
+    "content": "**Бос:** Aldrich, Devourer of Gods.\n**Локація:** Anor Londo.\n**Фази:** 2.\n**Нагорода:** Soul of Aldrich, Cinders of a Lord.",
+    "tags": [
+      "boss",
+      "боси",
+      "dark souls 3",
+      "aldrich, devourer of gods",
+      "anor londo",
+      "main"
+    ],
+    "source": "Довідник босів Dark Souls III (перевірено за DS3 wiki)",
+    "question": "Що потрібно знати про боса «Aldrich» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Де знаходиться Aldrich?",
+        "a": "Aldrich, Devourer of Gods знаходиться в локації Anor Londo."
+      },
+      {
+        "q": "Скільки фаз має Aldrich?",
+        "a": "Aldrich має 2 фази."
+      },
+      {
+        "q": "Опиши фази боса Aldrich.",
+        "a": "**Перша фаза:** Магічні атаки.\n**Друга фаза:** Посилені атаки з вогняними стрілами."
+      },
+      {
+        "q": "Яка нагорода за боса Aldrich?",
+        "a": "Нагорода за боса Aldrich: Soul of Aldrich, Cinders of a Lord."
+      },
+      {
+        "q": "Чи обов'язково перемагати боса Aldrich?",
+        "a": "Aldrich є основним босом гри (обов'язковим для проходження)."
+      },
+      {
+        "q": "Як перемогти боса Aldrich?",
+        "a": "**Тактика:**\n- Вивчай ритм атак, ухиляйся і контратакуй у паузах між комбінаціями.\n- Зверни увагу на зміни в бою: магічні атаки; посилені атаки з вогняними стрілами.\n- Точних назв атак і детальнішої перевіреної тактики для цього боса в мене немає."
+      }
+    ]
+  },
+  {
+    "id": "boss_011",
+    "category": "boss",
+    "title": "Yhorm the Giant",
+    "content": "**Бос:** Yhorm the Giant.\n**Локація:** Profaned Capital.\n**Фази:** 1.\n**Нагорода:** Soul of Yhorm the Giant, Cinders of a Lord.",
+    "tags": [
+      "boss",
+      "боси",
+      "dark souls 3",
+      "yhorm the giant",
+      "profaned capital",
+      "main"
+    ],
+    "source": "Довідник босів Dark Souls III (перевірено за DS3 wiki)",
+    "question": "Що потрібно знати про боса «Yhorm» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Де знаходиться Yhorm?",
+        "a": "Yhorm the Giant знаходиться в локації Profaned Capital."
+      },
+      {
+        "q": "Скільки фаз має Yhorm?",
+        "a": "Yhorm має одну фазу: бій із використанням Storm Ruler."
+      },
+      {
+        "q": "Яка нагорода за боса Yhorm?",
+        "a": "Нагорода за боса Yhorm: Soul of Yhorm the Giant, Cinders of a Lord."
+      },
+      {
+        "q": "Чи обов'язково перемагати боса Yhorm?",
+        "a": "Yhorm є основним босом гри (обов'язковим для проходження)."
+      },
+      {
+        "q": "Як перемогти боса Yhorm?",
+        "a": "**Тактика:**\n- Вивчай ритм атак, ухиляйся і контратакуй у паузах між комбінаціями.\n- Зверни увагу на зміни в бою: бій із використанням Storm Ruler.\n- Точних назв атак і детальнішої перевіреної тактики для цього боса в мене немає."
+      }
+    ]
+  },
+  {
+    "id": "boss_012",
+    "category": "boss",
+    "title": "Dancer of the Boreal Valley",
+    "content": "**Бос:** Dancer of the Boreal Valley.\n**Локація:** Висока стіна Лотріка (High Wall of Lothric).\n**Фази:** 2.\n**Нагорода:** Soul of the Dancer.",
+    "tags": [
+      "boss",
+      "боси",
+      "dark souls 3",
+      "dancer of the boreal valley",
+      "high wall of lothric",
+      "main"
+    ],
+    "source": "Довідник босів Dark Souls III (перевірено за DS3 wiki)",
+    "question": "Що потрібно знати про боса «Dancer of the Boreal Valley» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Де знаходиться Dancer of the Boreal Valley?",
+        "a": "Dancer of the Boreal Valley знаходиться в локації Висока стіна Лотріка (High Wall of Lothric)."
+      },
+      {
+        "q": "Скільки фаз має Dancer of the Boreal Valley?",
+        "a": "Dancer of the Boreal Valley має 2 фази."
+      },
+      {
+        "q": "Опиши фази боса Dancer of the Boreal Valley.",
+        "a": "**Перша фаза:** Один меч.\n**Друга фаза:** Два мечі та швидші комбінації."
+      },
+      {
+        "q": "Яка нагорода за боса Dancer of the Boreal Valley?",
+        "a": "Нагорода за боса Dancer of the Boreal Valley: Soul of the Dancer."
+      },
+      {
+        "q": "Чи обов'язково перемагати боса Dancer of the Boreal Valley?",
+        "a": "Dancer of the Boreal Valley є основним босом гри (обов'язковим для проходження)."
+      },
+      {
+        "q": "Як перемогти боса Dancer of the Boreal Valley?",
+        "a": "**Тактика:**\n- Вивчай ритм атак, ухиляйся і контратакуй у паузах між комбінаціями.\n- Зверни увагу на зміни в бою: один меч; два мечі та швидші комбінації.\n- Точних назв атак і детальнішої перевіреної тактики для цього боса в мене немає."
+      }
+    ]
+  },
+  {
+    "id": "boss_013",
+    "category": "boss",
+    "title": "Dragonslayer Armour",
+    "content": "**Бос:** Dragonslayer Armour.\n**Локація:** Lothric Castle.\n**Фази:** 2.\n**Нагорода:** Soul of Dragonslayer Armour.",
+    "tags": [
+      "boss",
+      "боси",
+      "dark souls 3",
+      "dragonslayer armour",
+      "lothric castle",
+      "main"
+    ],
+    "source": "Довідник босів Dark Souls III (перевірено за DS3 wiki)",
+    "question": "Що потрібно знати про боса «Dragonslayer Armour» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Де знаходиться Dragonslayer Armour?",
+        "a": "Dragonslayer Armour знаходиться в локації Lothric Castle."
+      },
+      {
+        "q": "Скільки фаз має Dragonslayer Armour?",
+        "a": "Dragonslayer Armour має 2 фази."
+      },
+      {
+        "q": "Опиши фази боса Dragonslayer Armour.",
+        "a": "**Перша фаза:** Звичайний бій.\n**Друга фаза:** Посилення атак за участю метеликів-пілігримів."
+      },
+      {
+        "q": "Яка нагорода за боса Dragonslayer Armour?",
+        "a": "Нагорода за боса Dragonslayer Armour: Soul of Dragonslayer Armour."
+      },
+      {
+        "q": "Чи обов'язково перемагати боса Dragonslayer Armour?",
+        "a": "Dragonslayer Armour є основним босом гри (обов'язковим для проходження)."
+      },
+      {
+        "q": "Як перемогти боса Dragonslayer Armour?",
+        "a": "**Тактика:**\n- Вивчай ритм атак, ухиляйся і контратакуй у паузах між комбінаціями.\n- Зверни увагу на зміни в бою: звичайний бій; посилення атак за участю метеликів-пілігримів.\n- Точних назв атак і детальнішої перевіреної тактики для цього боса в мене немає."
+      }
+    ]
+  },
+  {
+    "id": "boss_014",
+    "category": "boss",
+    "title": "Oceiros, the Consumed King",
+    "content": "**Бос:** Oceiros, the Consumed King.\n**Локація:** Consumed King's Garden.\n**Фази:** 2.\n**Нагорода:** Soul of Consumed Oceiros.",
+    "tags": [
+      "boss",
+      "боси",
+      "dark souls 3",
+      "oceiros, the consumed king",
+      "consumed king's garden",
+      "optional"
+    ],
+    "source": "Довідник босів Dark Souls III (перевірено за DS3 wiki)",
+    "question": "Що потрібно знати про боса «Oceiros» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Де знаходиться Oceiros?",
+        "a": "Oceiros, the Consumed King знаходиться в локації Consumed King's Garden."
+      },
+      {
+        "q": "Скільки фаз має Oceiros?",
+        "a": "Oceiros має 2 фази."
+      },
+      {
+        "q": "Опиши фази боса Oceiros.",
+        "a": "**Перша фаза:** Атаки посохом і магією.\n**Друга фаза:** Агресивні атаки у формі дракона."
+      },
+      {
+        "q": "Яка нагорода за боса Oceiros?",
+        "a": "Нагорода за боса Oceiros: Soul of Consumed Oceiros."
+      },
+      {
+        "q": "Чи обов'язково перемагати боса Oceiros?",
+        "a": "Oceiros є необов'язковим босом основної гри."
+      },
+      {
+        "q": "Як перемогти боса Oceiros?",
+        "a": "**Тактика:**\n- Вивчай ритм атак, ухиляйся і контратакуй у паузах між комбінаціями.\n- Зверни увагу на зміни в бою: атаки посохом і магією; агресивні атаки у формі дракона.\n- Точних назв атак і детальнішої перевіреної тактики для цього боса в мене немає."
+      }
+    ]
+  },
+  {
+    "id": "boss_015",
+    "category": "boss",
+    "title": "Champion Gundyr",
+    "content": "**Бос:** Champion Gundyr.\n**Локація:** Untended Graves.\n**Фази:** 2.\n**Нагорода:** Soul of Champion Gundyr.",
+    "tags": [
+      "boss",
+      "боси",
+      "dark souls 3",
+      "champion gundyr",
+      "untended graves",
+      "optional"
+    ],
+    "source": "Довідник босів Dark Souls III (перевірено за DS3 wiki)",
+    "question": "Що потрібно знати про боса «Champion Gundyr» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Де знаходиться Champion Gundyr?",
+        "a": "Champion Gundyr знаходиться в локації Untended Graves."
+      },
+      {
+        "q": "Скільки фаз має Champion Gundyr?",
+        "a": "Champion Gundyr має 2 фази."
+      },
+      {
+        "q": "Опиши фази боса Champion Gundyr.",
+        "a": "**Перша фаза:** Звичайні атаки.\n**Друга фаза:** Агресивні комбінації та ривки."
+      },
+      {
+        "q": "Яка нагорода за боса Champion Gundyr?",
+        "a": "Нагорода за боса Champion Gundyr: Soul of Champion Gundyr."
+      },
+      {
+        "q": "Чи обов'язково перемагати боса Champion Gundyr?",
+        "a": "Champion Gundyr є необов'язковим босом основної гри."
+      },
+      {
+        "q": "Як перемогти боса Champion Gundyr?",
+        "a": "**Тактика:**\n- Вивчай ритм атак, ухиляйся і контратакуй у паузах між комбінаціями.\n- Зверни увагу на зміни в бою: звичайні атаки; агресивні комбінації та ривки.\n- Точних назв атак і детальнішої перевіреної тактики для цього боса в мене немає."
+      }
+    ]
+  },
+  {
+    "id": "boss_016",
+    "category": "boss",
+    "title": "Ancient Wyvern",
+    "content": "**Бос:** Ancient Wyvern.\n**Локація:** Archdragon Peak.\n**Фази:** 1.\n**Нагорода:** Dragon Head Stone.",
+    "tags": [
+      "boss",
+      "боси",
+      "dark souls 3",
+      "ancient wyvern",
+      "archdragon peak",
+      "optional"
+    ],
+    "source": "Довідник босів Dark Souls III (перевірено за DS3 wiki)",
+    "question": "Що потрібно знати про боса «Ancient Wyvern» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Де знаходиться Ancient Wyvern?",
+        "a": "Ancient Wyvern знаходиться в локації Archdragon Peak."
+      },
+      {
+        "q": "Скільки фаз має Ancient Wyvern?",
+        "a": "Ancient Wyvern має одну фазу: бій із використанням оточення та падіння згори."
+      },
+      {
+        "q": "Яка нагорода за боса Ancient Wyvern?",
+        "a": "Нагорода за боса Ancient Wyvern: Dragon Head Stone."
+      },
+      {
+        "q": "Чи обов'язково перемагати боса Ancient Wyvern?",
+        "a": "Ancient Wyvern є необов'язковим босом основної гри."
+      },
+      {
+        "q": "Як перемогти боса Ancient Wyvern?",
+        "a": "**Тактика:**\n- Вивчай ритм атак, ухиляйся і контратакуй у паузах між комбінаціями.\n- Зверни увагу на зміни в бою: бій із використанням оточення та падіння згори.\n- Точних назв атак і детальнішої перевіреної тактики для цього боса в мене немає."
+      }
+    ]
+  },
+  {
+    "id": "boss_017",
+    "category": "boss",
+    "title": "Nameless King",
+    "content": "**Бос:** Nameless King.\n**Локація:** Archdragon Peak.\n**Фази:** 2.\n**Нагорода:** Soul of the Nameless King.",
+    "tags": [
+      "boss",
+      "боси",
+      "dark souls 3",
+      "nameless king",
+      "archdragon peak",
+      "optional"
+    ],
+    "source": "Довідник босів Dark Souls III (перевірено за DS3 wiki)",
+    "question": "Що потрібно знати про боса «Nameless King» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Де знаходиться Nameless King?",
+        "a": "Nameless King знаходиться в локації Archdragon Peak."
+      },
+      {
+        "q": "Скільки фаз має Nameless King?",
+        "a": "Nameless King має 2 фази."
+      },
+      {
+        "q": "Опиши фази боса Nameless King.",
+        "a": "**Перша фаза:** King of the Storm.\n**Друга фаза:** Nameless King."
+      },
+      {
+        "q": "Яка нагорода за боса Nameless King?",
+        "a": "Нагорода за боса Nameless King: Soul of the Nameless King."
+      },
+      {
+        "q": "Чи обов'язково перемагати боса Nameless King?",
+        "a": "Nameless King є необов'язковим босом основної гри."
+      },
+      {
+        "q": "Як перемогти боса Nameless King?",
+        "a": "**Тактика:**\n- Вивчай ритм атак, ухиляйся і контратакуй у паузах між комбінаціями.\n- Зверни увагу на зміни в бою: King of the Storm; Nameless King.\n- Точних назв атак і детальнішої перевіреної тактики для цього боса в мене немає."
+      }
+    ]
+  },
+  {
+    "id": "boss_018",
+    "category": "boss",
+    "title": "Lothric, Younger Prince and Lorian, Elder Prince",
+    "content": "**Бос:** Lothric, Younger Prince and Lorian, Elder Prince.\n**Локація:** Grand Archives.\n**Фази:** 2.\n**Нагорода:** Soul of the Twin Princes, Cinders of a Lord.",
+    "tags": [
+      "boss",
+      "боси",
+      "dark souls 3",
+      "lothric, younger prince and lorian, elder prince",
+      "grand archives",
+      "main"
+    ],
+    "source": "Довідник босів Dark Souls III (перевірено за DS3 wiki)",
+    "question": "Що потрібно знати про боса «Twin Princes» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Де знаходиться Twin Princes?",
+        "a": "Lothric, Younger Prince and Lorian, Elder Prince знаходиться в локації Grand Archives."
+      },
+      {
+        "q": "Скільки фаз має Twin Princes?",
+        "a": "Twin Princes має 2 фази."
+      },
+      {
+        "q": "Опиши фази боса Twin Princes.",
+        "a": "**Перша фаза:** Бій із Лоріаном.\n**Друга фаза:** Лотрік приєднується до бою."
+      },
+      {
+        "q": "Яка нагорода за боса Twin Princes?",
+        "a": "Нагорода за боса Twin Princes: Soul of the Twin Princes, Cinders of a Lord."
+      },
+      {
+        "q": "Чи обов'язково перемагати боса Twin Princes?",
+        "a": "Twin Princes є основним босом гри (обов'язковим для проходження)."
+      },
+      {
+        "q": "Як перемогти боса Twin Princes?",
+        "a": "**Тактика:**\n- Вивчай ритм атак, ухиляйся і контратакуй у паузах між комбінаціями.\n- Зверни увагу на зміни в бою: бій із Лоріаном; Лотрік приєднується до бою.\n- Точних назв атак і детальнішої перевіреної тактики для цього боса в мене немає."
+      }
+    ]
+  },
+  {
+    "id": "boss_019",
+    "category": "boss",
+    "title": "Soul of Cinder",
+    "content": "**Бос:** Душа Попелу (Soul of Cinder).\n**Локація:** Піч Першого Полум'я (Kiln of the First Flame).\n**Фази:** 2.\n**Нагорода:** Soul of the Lords.",
+    "tags": [
+      "boss",
+      "боси",
+      "dark souls 3",
+      "soul of cinder",
+      "kiln of the first flame",
+      "main",
+      "душа попелу"
+    ],
+    "source": "Довідник босів Dark Souls III (перевірено за DS3 wiki)",
+    "question": "Що потрібно знати про боса «Душа Попелу» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Де знаходиться Душа Попелу?",
+        "a": "Душа Попелу (Soul of Cinder) знаходиться в локації Піч Першого Полум'я (Kiln of the First Flame)."
+      },
+      {
+        "q": "Скільки фаз має Душа Попелу?",
+        "a": "Душа Попелу має 2 фази."
+      },
+      {
+        "q": "Опиши фази боса Душа Попелу.",
+        "a": "**Перша фаза:** Різні бойові стилі.\n**Друга фаза:** Друга фаза з атаками, пов'язаними з Гвіном."
+      },
+      {
+        "q": "Яка нагорода за боса Душа Попелу?",
+        "a": "Нагорода за боса Душа Попелу: Soul of the Lords."
+      },
+      {
+        "q": "Чи обов'язково перемагати боса Душа Попелу?",
+        "a": "Душа Попелу є основним босом гри (обов'язковим для проходження)."
+      },
+      {
+        "q": "Як перемогти боса Душа Попелу?",
+        "a": "**Тактика:**\n- Вивчай ритм атак, ухиляйся і контратакуй у паузах між комбінаціями.\n- Зверни увагу на зміни в бою: різні бойові стилі; друга фаза з атаками, пов'язаними з Гвіном.\n- Точних назв атак і детальнішої перевіреної тактики для цього боса в мене немає."
+      }
+    ]
+  },
+  {
+    "id": "boss_020",
+    "category": "boss",
+    "title": "Champion's Gravetender and Gravetender Greatwolf",
+    "content": "**Бос:** Champion's Gravetender and Gravetender Greatwolf.\n**Локація:** Painted World of Ariandel, Depths of the Painting.\n**Фази:** 2.\n**Нагорода:** Champion's Bones, Valorheart.",
+    "tags": [
+      "boss",
+      "боси",
+      "dark souls 3",
+      "champion's gravetender and gravetender greatwolf",
+      "painted world of ariandel",
+      "dlc_optional"
+    ],
+    "source": "Довідник босів Dark Souls III (перевірено за DS3 wiki)",
+    "question": "Що потрібно знати про боса «Champion's Gravetender» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Де знаходиться Champion's Gravetender?",
+        "a": "Champion's Gravetender and Gravetender Greatwolf знаходиться в локації Painted World of Ariandel, Depths of the Painting."
+      },
+      {
+        "q": "Скільки фаз має Champion's Gravetender?",
+        "a": "Champion's Gravetender має 2 фази."
+      },
+      {
+        "q": "Опиши фази боса Champion's Gravetender.",
+        "a": "**Перша фаза:** Бій із могильником.\n**Друга фаза:** Поява великого вовка."
+      },
+      {
+        "q": "Яка нагорода за боса Champion's Gravetender?",
+        "a": "Нагорода за боса Champion's Gravetender: Champion's Bones, Valorheart."
+      },
+      {
+        "q": "Чи обов'язково перемагати боса Champion's Gravetender?",
+        "a": "Champion's Gravetender є необов'язковим босом доповнення Ashes of Ariandel."
+      },
+      {
+        "q": "Як перемогти боса Champion's Gravetender?",
+        "a": "**Тактика:**\n- Вивчай ритм атак, ухиляйся і контратакуй у паузах між комбінаціями.\n- Зверни увагу на зміни в бою: бій із могильником; поява великого вовка.\n- Точних назв атак і детальнішої перевіреної тактики для цього боса в мене немає."
+      }
+    ]
+  },
+  {
+    "id": "boss_021",
+    "category": "boss",
+    "title": "Sister Friede and Father Ariandel",
+    "content": "**Бос:** Sister Friede and Father Ariandel.\n**Локація:** Painted World of Ariandel, Ariandel Chapel.\n**Фази:** 3.\n**Нагорода:** Soul of Sister Friede.",
+    "tags": [
+      "boss",
+      "боси",
+      "dark souls 3",
+      "sister friede and father ariandel",
+      "painted world of ariandel",
+      "dlc_main"
+    ],
+    "source": "Довідник босів Dark Souls III (перевірено за DS3 wiki)",
+    "question": "Що потрібно знати про боса «Sister Friede» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Де знаходиться Sister Friede?",
+        "a": "Sister Friede and Father Ariandel знаходиться в локації Painted World of Ariandel, Ariandel Chapel."
+      },
+      {
+        "q": "Скільки фаз має Sister Friede?",
+        "a": "Sister Friede має 3 фази."
+      },
+      {
+        "q": "Опиши фази боса Sister Friede.",
+        "a": "**Перша фаза:** Sister Friede.\n**Друга фаза:** Friede та Father Ariandel.\n**Третя фаза:** Blackflame Friede."
+      },
+      {
+        "q": "Яка нагорода за боса Sister Friede?",
+        "a": "Нагорода за боса Sister Friede: Soul of Sister Friede."
+      },
+      {
+        "q": "Чи обов'язково перемагати боса Sister Friede?",
+        "a": "Sister Friede є основним босом доповнення Ashes of Ariandel."
+      },
+      {
+        "q": "Як перемогти боса Sister Friede?",
+        "a": "**Тактика:**\n- Вивчай ритм атак, ухиляйся і контратакуй у паузах між комбінаціями.\n- Зверни увагу на зміни в бою: Sister Friede; Friede та Father Ariandel; Blackflame Friede.\n- Точних назв атак і детальнішої перевіреної тактики для цього боса в мене немає."
+      }
+    ]
+  },
+  {
+    "id": "boss_022",
+    "category": "boss",
+    "title": "Demon in Pain, Demon from Below and Demon Prince",
+    "content": "**Бос:** Demon in Pain, Demon from Below and Demon Prince.\n**Локація:** The Dreg Heap, Earthen Peak Ruins.\n**Фази:** 2.\n**Нагорода:** Soul of the Demon Prince.",
+    "tags": [
+      "boss",
+      "боси",
+      "dark souls 3",
+      "demon in pain, demon from below and demon prince",
+      "the dreg heap",
+      "dlc_main"
+    ],
+    "source": "Довідник босів Dark Souls III (перевірено за DS3 wiki)",
+    "question": "Що потрібно знати про боса «Demon Prince» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Де знаходиться Demon Prince?",
+        "a": "Demon in Pain, Demon from Below and Demon Prince знаходиться в локації The Dreg Heap, Earthen Peak Ruins."
+      },
+      {
+        "q": "Скільки фаз має Demon Prince?",
+        "a": "Demon Prince має 2 фази."
+      },
+      {
+        "q": "Опиши фази боса Demon Prince.",
+        "a": "**Перша фаза:** Бій із двома демонами.\n**Друга фаза:** Demon Prince."
+      },
+      {
+        "q": "Яка нагорода за боса Demon Prince?",
+        "a": "Нагорода за боса Demon Prince: Soul of the Demon Prince."
+      },
+      {
+        "q": "Чи обов'язково перемагати боса Demon Prince?",
+        "a": "Demon Prince є основним босом доповнення The Ringed City."
+      },
+      {
+        "q": "Як перемогти боса Demon Prince?",
+        "a": "**Тактика:**\n- Вивчай ритм атак, ухиляйся і контратакуй у паузах між комбінаціями.\n- Зверни увагу на зміни в бою: бій із двома демонами; Demon Prince.\n- Точних назв атак і детальнішої перевіреної тактики для цього боса в мене немає."
+      }
+    ]
+  },
+  {
+    "id": "boss_023",
+    "category": "boss",
+    "title": "Halflight, Spear of the Church",
+    "content": "**Бос:** Halflight, Spear of the Church.\n**Локація:** The Ringed City, Church of Filianore.\n**Фази:** 1.\n**Нагорода:** Filianore's Spear Ornament.",
+    "tags": [
+      "boss",
+      "боси",
+      "dark souls 3",
+      "halflight, spear of the church",
+      "the ringed city",
+      "dlc_main"
+    ],
+    "source": "Довідник босів Dark Souls III (перевірено за DS3 wiki)",
+    "question": "Що потрібно знати про боса «Halflight» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Де знаходиться Halflight?",
+        "a": "Halflight, Spear of the Church знаходиться в локації The Ringed City, Church of Filianore."
+      },
+      {
+        "q": "Скільки фаз має Halflight?",
+        "a": "Halflight має одну фазу: бій із захисником Церкви та його помічниками."
+      },
+      {
+        "q": "Яка нагорода за боса Halflight?",
+        "a": "Нагорода за боса Halflight: Filianore's Spear Ornament."
+      },
+      {
+        "q": "Чи обов'язково перемагати боса Halflight?",
+        "a": "Halflight є основним босом доповнення The Ringed City."
+      },
+      {
+        "q": "Як перемогти боса Halflight?",
+        "a": "**Тактика:**\n- Вивчай ритм атак, ухиляйся і контратакуй у паузах між комбінаціями.\n- Зверни увагу на зміни в бою: бій із захисником Церкви та його помічниками.\n- Точних назв атак і детальнішої перевіреної тактики для цього боса в мене немає."
+      }
+    ]
+  },
+  {
+    "id": "boss_024",
+    "category": "boss",
+    "title": "Darkeater Midir",
+    "content": "**Бос:** Darkeater Midir.\n**Локація:** The Ringed City (після відкриття шортката біля багаття Ringed Inner Wall).\n**Фази:** 2.\n**Нагорода:** Soul of Darkeater Midir.",
+    "tags": [
+      "boss",
+      "боси",
+      "dark souls 3",
+      "darkeater midir",
+      "the ringed city",
+      "dlc_optional"
+    ],
+    "source": "Довідник босів Dark Souls III (перевірено за DS3 wiki)",
+    "question": "Що потрібно знати про боса «Darkeater Midir» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Де знаходиться Darkeater Midir?",
+        "a": "Darkeater Midir знаходиться в локації The Ringed City (після відкриття шортката біля багаття Ringed Inner Wall)."
+      },
+      {
+        "q": "Скільки фаз має Darkeater Midir?",
+        "a": "Darkeater Midir має 2 фази."
+      },
+      {
+        "q": "Опиши фази боса Darkeater Midir.",
+        "a": "**Перша фаза:** Звичайні атаки дракона.\n**Друга фаза:** Посилені атаки темрявою."
+      },
+      {
+        "q": "Яка нагорода за боса Darkeater Midir?",
+        "a": "Нагорода за боса Darkeater Midir: Soul of Darkeater Midir."
+      },
+      {
+        "q": "Чи обов'язково перемагати боса Darkeater Midir?",
+        "a": "Darkeater Midir є необов'язковим босом доповнення The Ringed City."
+      },
+      {
+        "q": "Як перемогти боса Darkeater Midir?",
+        "a": "**Тактика:**\n- Вивчай ритм атак, ухиляйся і контратакуй у паузах між комбінаціями.\n- Зверни увагу на зміни в бою: звичайні атаки дракона; посилені атаки темрявою.\n- Точних назв атак і детальнішої перевіреної тактики для цього боса в мене немає."
+      }
+    ]
+  },
+  {
+    "id": "boss_025",
+    "category": "boss",
+    "title": "Slave Knight Gael",
+    "content": "**Бос:** Slave Knight Gael.\n**Локація:** The Ringed City, Filianore's Rest.\n**Фази:** 3.\n**Нагорода:** Soul of Slave Knight Gael, Blood of the Dark Soul.",
+    "tags": [
+      "boss",
+      "боси",
+      "dark souls 3",
+      "slave knight gael",
+      "the ringed city",
+      "dlc_main"
+    ],
+    "source": "Довідник босів Dark Souls III (перевірено за DS3 wiki)",
+    "question": "Що потрібно знати про боса «Slave Knight Gael» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Де знаходиться Slave Knight Gael?",
+        "a": "Slave Knight Gael знаходиться в локації The Ringed City, Filianore's Rest."
+      },
+      {
+        "q": "Скільки фаз має Slave Knight Gael?",
+        "a": "Slave Knight Gael має 3 фази."
+      },
+      {
+        "q": "Опиши фази боса Slave Knight Gael.",
+        "a": "**Перша фаза:** Звичайний бій.\n**Друга фаза:** Посилені атаки.\n**Третя фаза:** Фінальна фаза з блискавками та темною енергією."
+      },
+      {
+        "q": "Яка нагорода за боса Slave Knight Gael?",
+        "a": "Нагорода за боса Slave Knight Gael: Soul of Slave Knight Gael, Blood of the Dark Soul."
+      },
+      {
+        "q": "Чи обов'язково перемагати боса Slave Knight Gael?",
+        "a": "Slave Knight Gael є основним босом доповнення The Ringed City."
+      },
+      {
+        "q": "Як перемогти боса Slave Knight Gael?",
+        "a": "**Тактика:**\n- Вивчай ритм атак, ухиляйся і контратакуй у паузах між комбінаціями.\n- Зверни увагу на зміни в бою: звичайний бій; посилені атаки; фінальна фаза з блискавками та темною енергією.\n- Точних назв атак і детальнішої перевіреної тактики для цього боса в мене немає."
+      }
+    ]
+  },
+  {
+    "id": "loc_001",
+    "category": "location",
+    "title": "Cemetery of Ash",
+    "content": "**Локація:** Кладовище попелу (Cemetery of Ash).\nПочаткова локація гри.\nБоси: Судія Ґундир (Iudex Gundyr).",
+    "tags": [
+      "location",
+      "локації",
+      "dark souls 3",
+      "cemetery of ash"
+    ],
+    "source": "Dark Souls III: локації та боси",
+    "question": "Що відомо про локацію «Cemetery of Ash» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Які боси є в локації Cemetery of Ash?",
+        "a": "У локації Кладовище попелу (Cemetery of Ash) є бос: Судія Ґундир (Iudex Gundyr)."
+      }
+    ]
+  },
+  {
+    "id": "loc_002",
+    "category": "location",
+    "title": "Firelink Shrine",
+    "content": "**Локація:** Храм вогню (Firelink Shrine).\nХаб гри; боса тут немає. Сюди гравець потрапляє після перемоги над Судією Ґундиром.\nБосів у цій локації немає.",
+    "tags": [
+      "location",
+      "локації",
+      "dark souls 3",
+      "firelink shrine"
+    ],
+    "source": "Dark Souls III: локації та боси",
+    "question": "Що відомо про локацію «Firelink Shrine» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Які боси є в локації Firelink Shrine?",
+        "a": "У локації Храм вогню (Firelink Shrine) босів немає."
+      }
+    ]
+  },
+  {
+    "id": "loc_003",
+    "category": "location",
+    "title": "High Wall of Lothric",
+    "content": "**Локація:** Висока стіна Лотріка (High Wall of Lothric).\nОдна з початкових локацій гри.\nБоси: Вордт із Бореальної долини (Vordt of the Boreal Valley); Dancer of the Boreal Valley.",
+    "tags": [
+      "location",
+      "локації",
+      "dark souls 3",
+      "high wall of lothric"
+    ],
+    "source": "Dark Souls III: локації та боси",
+    "question": "Що відомо про локацію «High Wall of Lothric» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Які боси є в локації High Wall of Lothric?",
+        "a": "У локації Висока стіна Лотріка (High Wall of Lothric) є боси: Вордт із Бореальної долини (Vordt of the Boreal Valley); Dancer of the Boreal Valley."
+      }
+    ]
+  },
+  {
+    "id": "loc_004",
+    "category": "location",
+    "title": "Undead Settlement",
+    "content": "**Локація:** Undead Settlement.\nБоси: Curse-Rotted Greatwood.",
+    "tags": [
+      "location",
+      "локації",
+      "dark souls 3",
+      "undead settlement"
+    ],
+    "source": "Dark Souls III: локації та боси",
+    "question": "Що відомо про локацію «Undead Settlement» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Які боси є в локації Undead Settlement?",
+        "a": "У локації Undead Settlement є бос: Curse-Rotted Greatwood."
+      }
+    ]
+  },
+  {
+    "id": "loc_005",
+    "category": "location",
+    "title": "Road of Sacrifices",
+    "content": "**Локація:** Road of Sacrifices.\nБоси: Crystal Sage.",
+    "tags": [
+      "location",
+      "локації",
+      "dark souls 3",
+      "road of sacrifices"
+    ],
+    "source": "Dark Souls III: локації та боси",
+    "question": "Що відомо про локацію «Road of Sacrifices» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Які боси є в локації Road of Sacrifices?",
+        "a": "У локації Road of Sacrifices є бос: Crystal Sage."
+      }
+    ]
+  },
+  {
+    "id": "loc_006",
+    "category": "location",
+    "title": "Farron Keep",
+    "content": "**Локація:** Farron Keep.\nБоси: Abyss Watchers.",
+    "tags": [
+      "location",
+      "локації",
+      "dark souls 3",
+      "farron keep"
+    ],
+    "source": "Dark Souls III: локації та боси",
+    "question": "Що відомо про локацію «Farron Keep» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Які боси є в локації Farron Keep?",
+        "a": "У локації Farron Keep є бос: Abyss Watchers."
+      }
+    ]
+  },
+  {
+    "id": "loc_007",
+    "category": "location",
+    "title": "Cathedral of the Deep",
+    "content": "**Локація:** Cathedral of the Deep.\nБоси: Deacons of the Deep.",
+    "tags": [
+      "location",
+      "локації",
+      "dark souls 3",
+      "cathedral of the deep"
+    ],
+    "source": "Dark Souls III: локації та боси",
+    "question": "Що відомо про локацію «Cathedral of the Deep» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Які боси є в локації Cathedral of the Deep?",
+        "a": "У локації Cathedral of the Deep є бос: Deacons of the Deep."
+      }
+    ]
+  },
+  {
+    "id": "loc_008",
+    "category": "location",
+    "title": "Catacombs of Carthus",
+    "content": "**Локація:** Catacombs of Carthus.\nБоси: High Lord Wolnir.",
+    "tags": [
+      "location",
+      "локації",
+      "dark souls 3",
+      "catacombs of carthus"
+    ],
+    "source": "Dark Souls III: локації та боси",
+    "question": "Що відомо про локацію «Catacombs of Carthus» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Які боси є в локації Catacombs of Carthus?",
+        "a": "У локації Catacombs of Carthus є бос: High Lord Wolnir."
+      }
+    ]
+  },
+  {
+    "id": "loc_009",
+    "category": "location",
+    "title": "Smouldering Lake",
+    "content": "**Локація:** Smouldering Lake.\nБоси: Old Demon King.",
+    "tags": [
+      "location",
+      "локації",
+      "dark souls 3",
+      "smouldering lake"
+    ],
+    "source": "Dark Souls III: локації та боси",
+    "question": "Що відомо про локацію «Smouldering Lake» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Які боси є в локації Smouldering Lake?",
+        "a": "У локації Smouldering Lake є бос: Old Demon King."
+      }
+    ]
+  },
+  {
+    "id": "loc_010",
+    "category": "location",
+    "title": "Irithyll of the Boreal Valley",
+    "content": "**Локація:** Irithyll of the Boreal Valley.\nБоси: Pontiff Sulyvahn.",
+    "tags": [
+      "location",
+      "локації",
+      "dark souls 3",
+      "irithyll of the boreal valley"
+    ],
+    "source": "Dark Souls III: локації та боси",
+    "question": "Що відомо про локацію «Irithyll of the Boreal Valley» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Які боси є в локації Irithyll of the Boreal Valley?",
+        "a": "У локації Irithyll of the Boreal Valley є бос: Pontiff Sulyvahn."
+      }
+    ]
+  },
+  {
+    "id": "loc_011",
+    "category": "location",
+    "title": "Anor Londo",
+    "content": "**Локація:** Anor Londo.\nБоси: Aldrich, Devourer of Gods.",
+    "tags": [
+      "location",
+      "локації",
+      "dark souls 3",
+      "anor londo"
+    ],
+    "source": "Dark Souls III: локації та боси",
+    "question": "Що відомо про локацію «Anor Londo» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Які боси є в локації Anor Londo?",
+        "a": "У локації Anor Londo є бос: Aldrich, Devourer of Gods."
+      }
+    ]
+  },
+  {
+    "id": "loc_012",
+    "category": "location",
+    "title": "Profaned Capital",
+    "content": "**Локація:** Profaned Capital.\nБоси: Yhorm the Giant.",
+    "tags": [
+      "location",
+      "локації",
+      "dark souls 3",
+      "profaned capital"
+    ],
+    "source": "Dark Souls III: локації та боси",
+    "question": "Що відомо про локацію «Profaned Capital» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Які боси є в локації Profaned Capital?",
+        "a": "У локації Profaned Capital є бос: Yhorm the Giant."
+      }
+    ]
+  },
+  {
+    "id": "loc_013",
+    "category": "location",
+    "title": "Lothric Castle",
+    "content": "**Локація:** Lothric Castle.\nБоси: Dragonslayer Armour.",
+    "tags": [
+      "location",
+      "локації",
+      "dark souls 3",
+      "lothric castle"
+    ],
+    "source": "Dark Souls III: локації та боси",
+    "question": "Що відомо про локацію «Lothric Castle» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Які боси є в локації Lothric Castle?",
+        "a": "У локації Lothric Castle є бос: Dragonslayer Armour."
+      }
+    ]
+  },
+  {
+    "id": "loc_014",
+    "category": "location",
+    "title": "Consumed King's Garden",
+    "content": "**Локація:** Consumed King's Garden.\nБоси: Oceiros, the Consumed King.",
+    "tags": [
+      "location",
+      "локації",
+      "dark souls 3",
+      "consumed king's garden"
+    ],
+    "source": "Dark Souls III: локації та боси",
+    "question": "Що відомо про локацію «Consumed King's Garden» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Які боси є в локації Consumed King's Garden?",
+        "a": "У локації Consumed King's Garden є бос: Oceiros, the Consumed King."
+      }
+    ]
+  },
+  {
+    "id": "loc_015",
+    "category": "location",
+    "title": "Untended Graves",
+    "content": "**Локація:** Untended Graves.\nБоси: Champion Gundyr.",
+    "tags": [
+      "location",
+      "локації",
+      "dark souls 3",
+      "untended graves"
+    ],
+    "source": "Dark Souls III: локації та боси",
+    "question": "Що відомо про локацію «Untended Graves» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Які боси є в локації Untended Graves?",
+        "a": "У локації Untended Graves є бос: Champion Gundyr."
+      }
+    ]
+  },
+  {
+    "id": "loc_016",
+    "category": "location",
+    "title": "Grand Archives",
+    "content": "**Локація:** Grand Archives.\nБоси: Lothric, Younger Prince and Lorian, Elder Prince.",
+    "tags": [
+      "location",
+      "локації",
+      "dark souls 3",
+      "grand archives"
+    ],
+    "source": "Dark Souls III: локації та боси",
+    "question": "Що відомо про локацію «Grand Archives» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Які боси є в локації Grand Archives?",
+        "a": "У локації Grand Archives є бос: Lothric, Younger Prince and Lorian, Elder Prince."
+      }
+    ]
+  },
+  {
+    "id": "loc_017",
+    "category": "location",
+    "title": "Archdragon Peak",
+    "content": "**Локація:** Archdragon Peak.\nБоси: Ancient Wyvern; Nameless King.",
+    "tags": [
+      "location",
+      "локації",
+      "dark souls 3",
+      "archdragon peak"
+    ],
+    "source": "Dark Souls III: локації та боси",
+    "question": "Що відомо про локацію «Archdragon Peak» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Які боси є в локації Archdragon Peak?",
+        "a": "У локації Archdragon Peak є боси: Ancient Wyvern; Nameless King."
+      }
+    ]
+  },
+  {
+    "id": "loc_018",
+    "category": "location",
+    "title": "Kiln of the First Flame",
+    "content": "**Локація:** Піч Першого Полум'я (Kiln of the First Flame).\nФінальна локація основної гри.\nБоси: Душа Попелу (Soul of Cinder).",
+    "tags": [
+      "location",
+      "локації",
+      "dark souls 3",
+      "kiln of the first flame"
+    ],
+    "source": "Dark Souls III: локації та боси",
+    "question": "Що відомо про локацію «Kiln of the First Flame» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Які боси є в локації Kiln of the First Flame?",
+        "a": "У локації Піч Першого Полум'я (Kiln of the First Flame) є бос: Душа Попелу (Soul of Cinder)."
+      }
+    ]
+  },
+  {
+    "id": "loc_019",
+    "category": "location",
+    "title": "Painted World of Ariandel",
+    "content": "**Локація:** Painted World of Ariandel.\nЛокація доповнення Ashes of Ariandel.\nБоси: Champion's Gravetender and Gravetender Greatwolf; Sister Friede and Father Ariandel.",
+    "tags": [
+      "location",
+      "локації",
+      "dark souls 3",
+      "painted world of ariandel"
+    ],
+    "source": "Dark Souls III: локації та боси",
+    "question": "Що відомо про локацію «Painted World of Ariandel» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Які боси є в локації Painted World of Ariandel?",
+        "a": "У локації Painted World of Ariandel є боси: Champion's Gravetender and Gravetender Greatwolf; Sister Friede and Father Ariandel."
+      }
+    ]
+  },
+  {
+    "id": "loc_020",
+    "category": "location",
+    "title": "The Dreg Heap",
+    "content": "**Локація:** The Dreg Heap.\nЛокація доповнення The Ringed City.\nБоси: Demon in Pain, Demon from Below and Demon Prince.",
+    "tags": [
+      "location",
+      "локації",
+      "dark souls 3",
+      "the dreg heap"
+    ],
+    "source": "Dark Souls III: локації та боси",
+    "question": "Що відомо про локацію «The Dreg Heap» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Які боси є в локації The Dreg Heap?",
+        "a": "У локації The Dreg Heap є бос: Demon in Pain, Demon from Below and Demon Prince."
+      }
+    ]
+  },
+  {
+    "id": "loc_021",
+    "category": "location",
+    "title": "The Ringed City",
+    "content": "**Локація:** The Ringed City.\nЛокація доповнення The Ringed City.\nБоси: Halflight, Spear of the Church; Darkeater Midir; Slave Knight Gael.",
+    "tags": [
+      "location",
+      "локації",
+      "dark souls 3",
+      "the ringed city"
+    ],
+    "source": "Dark Souls III: локації та боси",
+    "question": "Що відомо про локацію «The Ringed City» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Які боси є в локації The Ringed City?",
+        "a": "У локації The Ringed City є боси: Halflight, Spear of the Church; Darkeater Midir; Slave Knight Gael."
+      }
+    ]
+  },
+  {
+    "id": "class_001",
+    "category": "class",
+    "title": "Knight",
+    "content": "**Клас:** Лицар (Knight).\n**Стартовий рівень:** 9.\n**Характеристики:** Vigor 12, Attunement 10, Endurance 11, Vitality 15, Strength 13, Dexterity 12, Intelligence 9, Faith 9, Luck 7.\n**Особливість:** міцний клас завдяки високій Vitality та важкому спорядженню.\n**Стартове спорядження:** Long Sword та щит.",
+    "tags": [
+      "class",
+      "клас",
+      "classes",
+      "стартові характеристики",
+      "dark souls 3",
+      "knight",
+      "лицар"
+    ],
+    "source": "Dark Souls III: стартові значення класів",
+    "question": "Розкажи про клас «Knight» у Dark Souls III.",
+    "qa": [
+      {
+        "q": "Яка сила, спритність і удача у класу Knight?",
+        "a": "У класу Лицар (Knight): Strength (сила) 13, Dexterity (спритність) 12, Luck (удача) 7."
+      },
+      {
+        "q": "Які стартові характеристики має Knight?",
+        "a": "Стартовий рівень 9. Vigor 12, Attunement 10, Endurance 11, Vitality 15, Strength 13, Dexterity 12, Intelligence 9, Faith 9, Luck 7."
+      },
+      {
+        "q": "З якого рівня починає клас Knight?",
+        "a": "Клас Лицар (Knight) починає з 9-го рівня."
+      }
+    ]
+  },
+  {
+    "id": "class_002",
+    "category": "class",
+    "title": "Mercenary",
+    "content": "**Клас:** Найманець (Mercenary).\n**Стартовий рівень:** 8.\n**Характеристики:** Vigor 11, Attunement 12, Endurance 11, Vitality 10, Strength 10, Dexterity 16, Intelligence 10, Faith 8, Luck 9.\n**Особливість:** ветеран бойових дій із високою Dexterity, майстерно володіє парними клинками.\n**Стартове спорядження:** Sellsword Twinblades.",
+    "tags": [
+      "class",
+      "клас",
+      "classes",
+      "стартові характеристики",
+      "dark souls 3",
+      "mercenary",
+      "найманець"
+    ],
+    "source": "Dark Souls III: стартові значення класів",
+    "question": "Розкажи про клас «Mercenary» у Dark Souls III.",
+    "qa": [
+      {
+        "q": "Яка сила, спритність і удача у класу Mercenary?",
+        "a": "У класу Найманець (Mercenary): Strength (сила) 10, Dexterity (спритність) 16, Luck (удача) 9."
+      },
+      {
+        "q": "Які стартові характеристики має Mercenary?",
+        "a": "Стартовий рівень 8. Vigor 11, Attunement 12, Endurance 11, Vitality 10, Strength 10, Dexterity 16, Intelligence 10, Faith 8, Luck 9."
+      },
+      {
+        "q": "З якого рівня починає клас Mercenary?",
+        "a": "Клас Найманець (Mercenary) починає з 8-го рівня."
+      }
+    ]
+  },
+  {
+    "id": "class_003",
+    "category": "class",
+    "title": "Warrior",
+    "content": "**Клас:** Воїн (Warrior).\n**Стартовий рівень:** 7.\n**Характеристики:** Vigor 14, Attunement 6, Endurance 12, Vitality 11, Strength 16, Dexterity 9, Intelligence 8, Faith 9, Luck 11.\n**Особливість:** клас із високою Strength, використовує важку бойову сокиру.\n**Стартове спорядження:** Battle Axe.",
+    "tags": [
+      "class",
+      "клас",
+      "classes",
+      "стартові характеристики",
+      "dark souls 3",
+      "warrior",
+      "воїн"
+    ],
+    "source": "Dark Souls III: стартові значення класів",
+    "question": "Розкажи про клас «Warrior» у Dark Souls III.",
+    "qa": [
+      {
+        "q": "Яка сила, спритність і удача у класу Warrior?",
+        "a": "У класу Воїн (Warrior): Strength (сила) 16, Dexterity (спритність) 9, Luck (удача) 11."
+      },
+      {
+        "q": "Які стартові характеристики має Warrior?",
+        "a": "Стартовий рівень 7. Vigor 14, Attunement 6, Endurance 12, Vitality 11, Strength 16, Dexterity 9, Intelligence 8, Faith 9, Luck 11."
+      },
+      {
+        "q": "З якого рівня починає клас Warrior?",
+        "a": "Клас Воїн (Warrior) починає з 7-го рівня."
+      }
+    ]
+  },
+  {
+    "id": "class_004",
+    "category": "class",
+    "title": "Herald",
+    "content": "**Клас:** Вісник (Herald).\n**Стартовий рівень:** 9.\n**Характеристики:** Vigor 12, Attunement 10, Endurance 9, Vitality 12, Strength 12, Dexterity 11, Intelligence 8, Faith 13, Luck 11.\n**Особливість:** колишній герольд зі списом та цілющим чудом.\n**Стартове спорядження:** спис, щит і чудо Heal.",
+    "tags": [
+      "class",
+      "клас",
+      "classes",
+      "стартові характеристики",
+      "dark souls 3",
+      "herald",
+      "вісник"
+    ],
+    "source": "Dark Souls III: стартові значення класів",
+    "question": "Розкажи про клас «Herald» у Dark Souls III.",
+    "qa": [
+      {
+        "q": "Яка сила, спритність і удача у класу Herald?",
+        "a": "У класу Вісник (Herald): Strength (сила) 12, Dexterity (спритність) 11, Luck (удача) 11."
+      },
+      {
+        "q": "Які стартові характеристики має Herald?",
+        "a": "Стартовий рівень 9. Vigor 12, Attunement 10, Endurance 9, Vitality 12, Strength 12, Dexterity 11, Intelligence 8, Faith 13, Luck 11."
+      },
+      {
+        "q": "З якого рівня починає клас Herald?",
+        "a": "Клас Вісник (Herald) починає з 9-го рівня."
+      }
+    ]
+  },
+  {
+    "id": "class_005",
+    "category": "class",
+    "title": "Thief",
+    "content": "**Клас:** Злодій (Thief).\n**Стартовий рівень:** 5.\n**Характеристики:** Vigor 10, Attunement 11, Endurance 10, Vitality 9, Strength 9, Dexterity 13, Intelligence 10, Faith 8, Luck 14.\n**Особливість:** клас із найвищою Luck серед стартових класів; кинджал для ударів у спину та лук.\n**Стартове спорядження:** Bandit Knife і Short Bow.",
+    "tags": [
+      "class",
+      "клас",
+      "classes",
+      "стартові характеристики",
+      "dark souls 3",
+      "thief",
+      "злодій"
+    ],
+    "source": "Dark Souls III: стартові значення класів",
+    "question": "Розкажи про клас «Thief» у Dark Souls III.",
+    "qa": [
+      {
+        "q": "Яка сила, спритність і удача у класу Thief?",
+        "a": "У класу Злодій (Thief): Strength (сила) 9, Dexterity (спритність) 13, Luck (удача) 14."
+      },
+      {
+        "q": "Які стартові характеристики має Thief?",
+        "a": "Стартовий рівень 5. Vigor 10, Attunement 11, Endurance 10, Vitality 9, Strength 9, Dexterity 13, Intelligence 10, Faith 8, Luck 14."
+      },
+      {
+        "q": "З якого рівня починає клас Thief?",
+        "a": "Клас Злодій (Thief) починає з 5-го рівня."
+      }
+    ]
+  },
+  {
+    "id": "class_006",
+    "category": "class",
+    "title": "Assassin",
+    "content": "**Клас:** Вбивця (Assassin).\n**Стартовий рівень:** 10.\n**Характеристики:** Vigor 10, Attunement 14, Endurance 11, Vitality 10, Strength 10, Dexterity 14, Intelligence 11, Faith 9, Luck 10.\n**Особливість:** віддає перевагу чаклунству та колючій зброї.\n**Стартове спорядження:** Estoc і Sorcerer's Staff.",
+    "tags": [
+      "class",
+      "клас",
+      "classes",
+      "стартові характеристики",
+      "dark souls 3",
+      "assassin",
+      "вбивця"
+    ],
+    "source": "Dark Souls III: стартові значення класів",
+    "question": "Розкажи про клас «Assassin» у Dark Souls III.",
+    "qa": [
+      {
+        "q": "Яка сила, спритність і удача у класу Assassin?",
+        "a": "У класу Вбивця (Assassin): Strength (сила) 10, Dexterity (спритність) 14, Luck (удача) 10."
+      },
+      {
+        "q": "Які стартові характеристики має Assassin?",
+        "a": "Стартовий рівень 10. Vigor 10, Attunement 14, Endurance 11, Vitality 10, Strength 10, Dexterity 14, Intelligence 11, Faith 9, Luck 10."
+      },
+      {
+        "q": "З якого рівня починає клас Assassin?",
+        "a": "Клас Вбивця (Assassin) починає з 10-го рівня."
+      }
+    ]
+  },
+  {
+    "id": "class_007",
+    "category": "class",
+    "title": "Sorcerer",
+    "content": "**Клас:** Чаклун (Sorcerer).\n**Стартовий рівень:** 6.\n**Характеристики:** Vigor 9, Attunement 16, Endurance 9, Vitality 7, Strength 7, Dexterity 12, Intelligence 16, Faith 7, Luck 12.\n**Особливість:** самітник, який керує чаклунством душі завдяки високому Intelligence.\n**Стартове спорядження:** Sorcerer's Staff та Mail Breaker.",
+    "tags": [
+      "class",
+      "клас",
+      "classes",
+      "стартові характеристики",
+      "dark souls 3",
+      "sorcerer",
+      "чаклун"
+    ],
+    "source": "Dark Souls III: стартові значення класів",
+    "question": "Розкажи про клас «Sorcerer» у Dark Souls III.",
+    "qa": [
+      {
+        "q": "Яка сила, спритність і удача у класу Sorcerer?",
+        "a": "У класу Чаклун (Sorcerer): Strength (сила) 7, Dexterity (спритність) 12, Luck (удача) 12."
+      },
+      {
+        "q": "Які стартові характеристики має Sorcerer?",
+        "a": "Стартовий рівень 6. Vigor 9, Attunement 16, Endurance 9, Vitality 7, Strength 7, Dexterity 12, Intelligence 16, Faith 7, Luck 12."
+      },
+      {
+        "q": "З якого рівня починає клас Sorcerer?",
+        "a": "Клас Чаклун (Sorcerer) починає з 6-го рівня."
+      }
+    ]
+  },
+  {
+    "id": "class_008",
+    "category": "class",
+    "title": "Pyromancer",
+    "content": "**Клас:** Піромант (Pyromancer).\n**Стартовий рівень:** 8.\n**Характеристики:** Vigor 11, Attunement 12, Endurance 10, Vitality 8, Strength 12, Dexterity 9, Intelligence 14, Faith 14, Luck 7.\n**Особливість:** керує полум'ям і вміє битися в ближньому бою ручною сокирою.\n**Стартове спорядження:** Hand Axe і Pyromancy Flame.",
+    "tags": [
+      "class",
+      "клас",
+      "classes",
+      "стартові характеристики",
+      "dark souls 3",
+      "pyromancer",
+      "піромант"
+    ],
+    "source": "Dark Souls III: стартові значення класів",
+    "question": "Розкажи про клас «Pyromancer» у Dark Souls III.",
+    "qa": [
+      {
+        "q": "Яка сила, спритність і удача у класу Pyromancer?",
+        "a": "У класу Піромант (Pyromancer): Strength (сила) 12, Dexterity (спритність) 9, Luck (удача) 7."
+      },
+      {
+        "q": "Які стартові характеристики має Pyromancer?",
+        "a": "Стартовий рівень 8. Vigor 11, Attunement 12, Endurance 10, Vitality 8, Strength 12, Dexterity 9, Intelligence 14, Faith 14, Luck 7."
+      },
+      {
+        "q": "З якого рівня починає клас Pyromancer?",
+        "a": "Клас Піромант (Pyromancer) починає з 8-го рівня."
+      }
+    ]
+  },
+  {
+    "id": "class_009",
+    "category": "class",
+    "title": "Cleric",
+    "content": "**Клас:** Клірик (Cleric).\n**Стартовий рівень:** 7.\n**Характеристики:** Vigor 10, Attunement 14, Endurance 9, Vitality 7, Strength 12, Dexterity 8, Intelligence 7, Faith 16, Luck 13.\n**Особливість:** мандрівний клірик, який використовує високу Faith для чудес.\n**Стартове спорядження:** Mace та чудеса.",
+    "tags": [
+      "class",
+      "клас",
+      "classes",
+      "стартові характеристики",
+      "dark souls 3",
+      "cleric",
+      "клірик"
+    ],
+    "source": "Dark Souls III: стартові значення класів",
+    "question": "Розкажи про клас «Cleric» у Dark Souls III.",
+    "qa": [
+      {
+        "q": "Яка сила, спритність і удача у класу Cleric?",
+        "a": "У класу Клірик (Cleric): Strength (сила) 12, Dexterity (спритність) 8, Luck (удача) 13."
+      },
+      {
+        "q": "Які стартові характеристики має Cleric?",
+        "a": "Стартовий рівень 7. Vigor 10, Attunement 14, Endurance 9, Vitality 7, Strength 12, Dexterity 8, Intelligence 7, Faith 16, Luck 13."
+      },
+      {
+        "q": "З якого рівня починає клас Cleric?",
+        "a": "Клас Клірик (Cleric) починає з 7-го рівня."
+      }
+    ]
+  },
+  {
+    "id": "class_010",
+    "category": "class",
+    "title": "Deprived",
+    "content": "**Клас:** Позбавлений (Deprived).\n**Стартовий рівень:** 1.\n**Характеристики:** Vigor 10, Attunement 10, Endurance 10, Vitality 10, Strength 10, Dexterity 10, Intelligence 10, Faith 10, Luck 10.\n**Особливість:** найпростіший клас із 1-м рівнем: майже без спорядження, дає повну свободу розвитку.\n**Стартове спорядження:** Club.",
+    "tags": [
+      "class",
+      "клас",
+      "classes",
+      "стартові характеристики",
+      "dark souls 3",
+      "deprived",
+      "позбавлений"
+    ],
+    "source": "Dark Souls III: стартові значення класів",
+    "question": "Розкажи про клас «Deprived» у Dark Souls III.",
+    "qa": [
+      {
+        "q": "Яка сила, спритність і удача у класу Deprived?",
+        "a": "У класу Позбавлений (Deprived): Strength (сила) 10, Dexterity (спритність) 10, Luck (удача) 10."
+      },
+      {
+        "q": "Які стартові характеристики має Deprived?",
+        "a": "Стартовий рівень 1. Vigor 10, Attunement 10, Endurance 10, Vitality 10, Strength 10, Dexterity 10, Intelligence 10, Faith 10, Luck 10."
+      },
+      {
+        "q": "З якого рівня починає клас Deprived?",
+        "a": "Клас Позбавлений (Deprived) починає з 1-го рівня."
+      }
+    ]
+  },
+  {
+    "id": "class_cmp_001",
+    "category": "class_comparison",
+    "title": "Порівняння стартових класів",
+    "content": "**Порівняння стартових класів:**\n- Найвища Strength (сила) — 16: Воїн (Warrior).\n- Найвища Dexterity (спритність) — 16: Найманець (Mercenary).\n- Найвища Luck (удача) — 14: Злодій (Thief).\n- Найвища Intelligence (інтелект) — 16: Чаклун (Sorcerer).\n- Найвища Faith (віра) — 16: Клірик (Cleric).\n- Найвища Vitality (життєздатність) — 15: Лицар (Knight).\n- Найнижча Luck (удача) — 7: Лицар (Knight) та Піромант (Pyromancer).",
+    "tags": [
+      "class",
+      "порівняння класів",
+      "сила",
+      "спритність",
+      "удача",
+      "dark souls 3"
+    ],
+    "source": "Dark Souls III: стартові значення класів",
+    "question": "Порівняй стартові класи Dark Souls III за силою, спритністю та удачею.",
+    "qa": [
+      {
+        "q": "Який стартовий клас має найвищу сила (Strength)?",
+        "a": "Найвищу Strength (сила) на старті має Воїн (Warrior) — 16."
+      },
+      {
+        "q": "Який стартовий клас має найвищу спритність (Dexterity)?",
+        "a": "Найвищу Dexterity (спритність) на старті має Найманець (Mercenary) — 16."
+      },
+      {
+        "q": "Який стартовий клас має найвищу удача (Luck)?",
+        "a": "Найвищу Luck (удача) на старті має Злодій (Thief) — 14."
+      },
+      {
+        "q": "Який стартовий клас має найвищу інтелект (Intelligence)?",
+        "a": "Найвищу Intelligence (інтелект) на старті має Чаклун (Sorcerer) — 16."
+      },
+      {
+        "q": "Який стартовий клас має найвищу віра (Faith)?",
+        "a": "Найвищу Faith (віра) на старті має Клірик (Cleric) — 16."
+      },
+      {
+        "q": "Який стартовий клас має найвищу життєздатність (Vitality)?",
+        "a": "Найвищу Vitality (життєздатність) на старті має Лицар (Knight) — 15."
+      },
+      {
+        "q": "Який стартовий клас має найнижчу удачу?",
+        "a": "Найнижча Luck (удача) на старті — 7: Лицар (Knight) та Піромант (Pyromancer)."
+      },
+      {
+        "q": "Скільки стартових класів у Dark Souls III?",
+        "a": "У Dark Souls III 10 стартових класів: Knight, Mercenary, Warrior, Herald, Thief, Assassin, Sorcerer, Pyromancer, Cleric та Deprived."
+      },
+      {
+        "q": "Який клас має найнижчий стартовий рівень?",
+        "a": "Найнижчий стартовий рівень — 1 — у класу Deprived (Позбавлений)."
+      }
+    ]
+  },
+  {
+    "id": "stat_001",
+    "category": "stat",
+    "title": "Vigor",
+    "content": "**Характеристика:** життєва сила (Vigor).\nВизначає максимальний запас здоров'я (HP).",
+    "tags": [
+      "stat",
+      "характеристика",
+      "атрибут",
+      "vigor",
+      "життєва сила",
+      "dark souls 3"
+    ],
+    "source": "Dark Souls III: характеристики персонажа",
+    "question": "За що відповідає характеристика «Vigor» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "За що відповідає життєва сила (Vigor)?",
+        "a": "Vigor (життєва сила): визначає максимальний запас здоров'я (HP)."
+      }
+    ]
+  },
+  {
+    "id": "stat_002",
+    "category": "stat",
+    "title": "Attunement",
+    "content": "**Характеристика:** гармонія (Attunement).\nВизначає запас очок зосередженості (FP) та кількість заклинань, які можна одночасно підготувати.",
+    "tags": [
+      "stat",
+      "характеристика",
+      "атрибут",
+      "attunement",
+      "гармонія",
+      "dark souls 3"
+    ],
+    "source": "Dark Souls III: характеристики персонажа",
+    "question": "За що відповідає характеристика «Attunement» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "За що відповідає гармонія (Attunement)?",
+        "a": "Attunement (гармонія): визначає запас очок зосередженості (FP) та кількість заклинань, які можна одночасно підготувати."
+      }
+    ]
+  },
+  {
+    "id": "stat_003",
+    "category": "stat",
+    "title": "Endurance",
+    "content": "**Характеристика:** витривалість (Endurance).\nВизначає запас витривалості (stamina).",
+    "tags": [
+      "stat",
+      "характеристика",
+      "атрибут",
+      "endurance",
+      "витривалість",
+      "dark souls 3"
+    ],
+    "source": "Dark Souls III: характеристики персонажа",
+    "question": "За що відповідає характеристика «Endurance» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "За що відповідає витривалість (Endurance)?",
+        "a": "Endurance (витривалість): визначає запас витривалості (stamina)."
+      }
+    ]
+  },
+  {
+    "id": "stat_004",
+    "category": "stat",
+    "title": "Vitality",
+    "content": "**Характеристика:** життєздатність (Vitality).\nВизначає максимальне навантаження (equip load), фізичний захист та стійкість до отрути.",
+    "tags": [
+      "stat",
+      "характеристика",
+      "атрибут",
+      "vitality",
+      "життєздатність",
+      "dark souls 3"
+    ],
+    "source": "Dark Souls III: характеристики персонажа",
+    "question": "За що відповідає характеристика «Vitality» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "За що відповідає життєздатність (Vitality)?",
+        "a": "Vitality (життєздатність): визначає максимальне навантаження (equip load), фізичний захист та стійкість до отрути."
+      }
+    ]
+  },
+  {
+    "id": "stat_005",
+    "category": "stat",
+    "title": "Strength",
+    "content": "**Характеристика:** сила (Strength).\nЗбільшує шкоду зброї, що залежить від сили, і дозволяє користуватися важчою зброєю та спорядженням.",
+    "tags": [
+      "stat",
+      "характеристика",
+      "атрибут",
+      "strength",
+      "сила",
+      "dark souls 3"
+    ],
+    "source": "Dark Souls III: характеристики персонажа",
+    "question": "За що відповідає характеристика «Strength» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "За що відповідає сила (Strength)?",
+        "a": "Strength (сила): збільшує шкоду зброї, що залежить від сили, і дозволяє користуватися важчою зброєю та спорядженням."
+      },
+      {
+        "q": "Які класи найкраще підходять за стартовим значенням Strength?",
+        "a": "Найвище стартове значення Strength (сила) — 16: Воїн (Warrior)."
+      }
+    ]
+  },
+  {
+    "id": "stat_006",
+    "category": "stat",
+    "title": "Dexterity",
+    "content": "**Характеристика:** спритність (Dexterity).\nЗбільшує шкоду зброї, що залежить від спритності, пришвидшує читання заклинань і зменшує шкоду від падіння.",
+    "tags": [
+      "stat",
+      "характеристика",
+      "атрибут",
+      "dexterity",
+      "спритність",
+      "dark souls 3"
+    ],
+    "source": "Dark Souls III: характеристики персонажа",
+    "question": "За що відповідає характеристика «Dexterity» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "За що відповідає спритність (Dexterity)?",
+        "a": "Dexterity (спритність): збільшує шкоду зброї, що залежить від спритності, пришвидшує читання заклинань і зменшує шкоду від падіння."
+      },
+      {
+        "q": "Які класи найкраще підходять за стартовим значенням Dexterity?",
+        "a": "Найвище стартове значення Dexterity (спритність) — 16: Найманець (Mercenary)."
+      }
+    ]
+  },
+  {
+    "id": "stat_007",
+    "category": "stat",
+    "title": "Intelligence",
+    "content": "**Характеристика:** інтелект (Intelligence).\nЗбільшує силу чаклунства та піромантії, а також шкоду зброї, що залежить від інтелекту.",
+    "tags": [
+      "stat",
+      "характеристика",
+      "атрибут",
+      "intelligence",
+      "інтелект",
+      "dark souls 3"
+    ],
+    "source": "Dark Souls III: характеристики персонажа",
+    "question": "За що відповідає характеристика «Intelligence» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "За що відповідає інтелект (Intelligence)?",
+        "a": "Intelligence (інтелект): збільшує силу чаклунства та піромантії, а також шкоду зброї, що залежить від інтелекту."
+      }
+    ]
+  },
+  {
+    "id": "stat_008",
+    "category": "stat",
+    "title": "Faith",
+    "content": "**Характеристика:** віра (Faith).\nЗбільшує силу чудес та піромантії, а також шкоду зброї, що залежить від віри.",
+    "tags": [
+      "stat",
+      "характеристика",
+      "атрибут",
+      "faith",
+      "віра",
+      "dark souls 3"
+    ],
+    "source": "Dark Souls III: характеристики персонажа",
+    "question": "За що відповідає характеристика «Faith» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "За що відповідає віра (Faith)?",
+        "a": "Faith (віра): збільшує силу чудес та піромантії, а також шкоду зброї, що залежить від віри."
+      }
+    ]
+  },
+  {
+    "id": "stat_009",
+    "category": "stat",
+    "title": "Luck",
+    "content": "**Характеристика:** удача (Luck).\nВпливає на шанс знаходити предмети (item discovery) та трохи підсилює кровотечу й отруту; є зброя, що залежить від удачі.",
+    "tags": [
+      "stat",
+      "характеристика",
+      "атрибут",
+      "luck",
+      "удача",
+      "dark souls 3"
+    ],
+    "source": "Dark Souls III: характеристики персонажа",
+    "question": "За що відповідає характеристика «Luck» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "За що відповідає удача (Luck)?",
+        "a": "Luck (удача): впливає на шанс знаходити предмети (item discovery) та трохи підсилює кровотечу й отруту; є зброя, що залежить від удачі."
+      },
+      {
+        "q": "Які класи найкраще підходять за стартовим значенням Luck?",
+        "a": "Найвище стартове значення Luck (удача) — 14: Злодій (Thief)."
+      }
+    ]
+  },
+  {
+    "id": "stat_010",
+    "category": "stat",
+    "title": "Список характеристик",
+    "content": "У Dark Souls III дев'ять основних характеристик: Vigor (життєва сила), Attunement (гармонія), Endurance (витривалість), Vitality (життєздатність), Strength (сила), Dexterity (спритність), Intelligence (інтелект), Faith (віра) та Luck (удача).",
+    "tags": [
+      "stat",
+      "характеристики",
+      "список",
+      "dark souls 3"
+    ],
+    "source": "Dark Souls III: характеристики персонажа",
+    "question": "Які основні характеристики персонажа є у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Скільки характеристик у персонажа Dark Souls III?",
+        "a": "У персонажа дев'ять характеристик: Vigor, Attunement, Endurance, Vitality, Strength, Dexterity, Intelligence, Faith та Luck."
+      }
+    ]
+  },
+  {
+    "id": "loot_001",
+    "category": "loot",
+    "title": "Cinders of a Lord",
+    "content": "**Cinders of a Lord** випадають із чотирьох босів: Abyss Watchers; Aldrich, Devourer of Gods; Yhorm the Giant; Lothric, Younger Prince and Lorian, Elder Prince. Їх використовують на тронах Володарів Попелу в Храмі вогню (Firelink Shrine).",
+    "tags": [
+      "loot",
+      "нагороди",
+      "cinders of a lord",
+      "dark souls 3"
+    ],
+    "source": "Dark Souls III: нагороди за босів",
+    "question": "Що таке Cinders of a Lord і з яких босів вони випадають?",
+    "qa": [
+      {
+        "q": "Які боси дають Cinders of a Lord?",
+        "a": "Cinders of a Lord дають: Abyss Watchers; Aldrich, Devourer of Gods; Yhorm the Giant; Lothric, Younger Prince and Lorian, Elder Prince."
+      }
+    ]
+  },
+  {
+    "id": "loot_002",
+    "category": "loot",
+    "title": "Душі босів",
+    "content": "За перемогу над більшістю босів гравець отримує унікальну душу боса (Soul of …). Душі босів можна обміняти на предмети в Ludleth of Courland у Храмі вогню (Firelink Shrine).",
+    "tags": [
+      "loot",
+      "душі босів",
+      "soul of",
+      "ludleth",
+      "dark souls 3"
+    ],
+    "source": "Dark Souls III: нагороди за босів",
+    "question": "Що дають душі босів у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Де можна обміняти душу боса?",
+        "a": "Душі босів обмінюють на предмети в Ludleth of Courland у Храмі вогню (Firelink Shrine)."
+      }
+    ]
+  },
+  {
+    "id": "loot_003",
+    "category": "loot",
+    "title": "Coiled Sword",
+    "content": "**Предмет:** Coiled Sword.\n**Отримання:** нагорода за перемогу над босом Судія Ґундир (Iudex Gundyr).\n**Локація боса:** Кладовище попелу (Cemetery of Ash).",
+    "tags": [
+      "loot",
+      "предмет",
+      "нагорода",
+      "coiled sword",
+      "iudex gundyr",
+      "dark souls 3"
+    ],
+    "source": "Dark Souls III: нагороди за босів",
+    "question": "Звідки взяти предмет «Coiled Sword» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Який бос дає Coiled Sword?",
+        "a": "Coiled Sword дає бос Судія Ґундир (Iudex Gundyr) (Кладовище попелу (Cemetery of Ash))."
+      }
+    ]
+  },
+  {
+    "id": "loot_004",
+    "category": "loot",
+    "title": "Transposing Kiln",
+    "content": "**Предмет:** Transposing Kiln.\n**Отримання:** нагорода за перемогу над босом Curse-Rotted Greatwood.\n**Локація боса:** Undead Settlement, Pit of Hollows.",
+    "tags": [
+      "loot",
+      "предмет",
+      "нагорода",
+      "transposing kiln",
+      "curse-rotted greatwood",
+      "dark souls 3"
+    ],
+    "source": "Dark Souls III: нагороди за босів",
+    "question": "Звідки взяти предмет «Transposing Kiln» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Який бос дає Transposing Kiln?",
+        "a": "Transposing Kiln дає бос Curse-Rotted Greatwood (Undead Settlement, Pit of Hollows)."
+      }
+    ]
+  },
+  {
+    "id": "loot_005",
+    "category": "loot",
+    "title": "Small Doll",
+    "content": "**Предмет:** Small Doll.\n**Отримання:** нагорода за перемогу над босом Deacons of the Deep.\n**Локація боса:** Cathedral of the Deep.",
+    "tags": [
+      "loot",
+      "предмет",
+      "нагорода",
+      "small doll",
+      "deacons of the deep",
+      "dark souls 3"
+    ],
+    "source": "Dark Souls III: нагороди за босів",
+    "question": "Звідки взяти предмет «Small Doll» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Який бос дає Small Doll?",
+        "a": "Small Doll дає бос Deacons of the Deep (Cathedral of the Deep)."
+      }
+    ]
+  },
+  {
+    "id": "loot_006",
+    "category": "loot",
+    "title": "Dragon Head Stone",
+    "content": "**Предмет:** Dragon Head Stone.\n**Отримання:** нагорода за перемогу над босом Ancient Wyvern.\n**Локація боса:** Archdragon Peak.",
+    "tags": [
+      "loot",
+      "предмет",
+      "нагорода",
+      "dragon head stone",
+      "ancient wyvern",
+      "dark souls 3"
+    ],
+    "source": "Dark Souls III: нагороди за босів",
+    "question": "Звідки взяти предмет «Dragon Head Stone» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Який бос дає Dragon Head Stone?",
+        "a": "Dragon Head Stone дає бос Ancient Wyvern (Archdragon Peak)."
+      }
+    ]
+  },
+  {
+    "id": "loot_007",
+    "category": "loot",
+    "title": "Valorheart",
+    "content": "**Предмет:** Valorheart.\n**Отримання:** нагорода за перемогу над босом Champion's Gravetender and Gravetender Greatwolf.\n**Локація боса:** Painted World of Ariandel, Depths of the Painting.",
+    "tags": [
+      "loot",
+      "предмет",
+      "нагорода",
+      "valorheart",
+      "champion's gravetender and gravetender greatwolf",
+      "dark souls 3"
+    ],
+    "source": "Dark Souls III: нагороди за босів",
+    "question": "Звідки взяти предмет «Valorheart» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Який бос дає Valorheart?",
+        "a": "Valorheart дає бос Champion's Gravetender and Gravetender Greatwolf (Painted World of Ariandel, Depths of the Painting)."
+      }
+    ]
+  },
+  {
+    "id": "loot_008",
+    "category": "loot",
+    "title": "Champion's Bones",
+    "content": "**Предмет:** Champion's Bones.\n**Отримання:** нагорода за перемогу над босом Champion's Gravetender and Gravetender Greatwolf.\n**Локація боса:** Painted World of Ariandel, Depths of the Painting.",
+    "tags": [
+      "loot",
+      "предмет",
+      "нагорода",
+      "champion's bones",
+      "champion's gravetender and gravetender greatwolf",
+      "dark souls 3"
+    ],
+    "source": "Dark Souls III: нагороди за босів",
+    "question": "Звідки взяти предмет «Champion's Bones» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Який бос дає Champion's Bones?",
+        "a": "Champion's Bones дає бос Champion's Gravetender and Gravetender Greatwolf (Painted World of Ariandel, Depths of the Painting)."
+      }
+    ]
+  },
+  {
+    "id": "loot_009",
+    "category": "loot",
+    "title": "Filianore's Spear Ornament",
+    "content": "**Предмет:** Filianore's Spear Ornament.\n**Отримання:** нагорода за перемогу над босом Halflight, Spear of the Church.\n**Локація боса:** The Ringed City, Church of Filianore.",
+    "tags": [
+      "loot",
+      "предмет",
+      "нагорода",
+      "filianore's spear ornament",
+      "halflight, spear of the church",
+      "dark souls 3"
+    ],
+    "source": "Dark Souls III: нагороди за босів",
+    "question": "Звідки взяти предмет «Filianore's Spear Ornament» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Який бос дає Filianore's Spear Ornament?",
+        "a": "Filianore's Spear Ornament дає бос Halflight, Spear of the Church (The Ringed City, Church of Filianore)."
+      }
+    ]
+  },
+  {
+    "id": "loot_010",
+    "category": "loot",
+    "title": "Blood of the Dark Soul",
+    "content": "**Предмет:** Blood of the Dark Soul.\n**Отримання:** нагорода за перемогу над босом Slave Knight Gael.\n**Локація боса:** The Ringed City, Filianore's Rest.",
+    "tags": [
+      "loot",
+      "предмет",
+      "нагорода",
+      "blood of the dark soul",
+      "slave knight gael",
+      "dark souls 3"
+    ],
+    "source": "Dark Souls III: нагороди за босів",
+    "question": "Звідки взяти предмет «Blood of the Dark Soul» у Dark Souls III?",
+    "qa": [
+      {
+        "q": "Який бос дає Blood of the Dark Soul?",
+        "a": "Blood of the Dark Soul дає бос Slave Knight Gael (The Ringed City, Filianore's Rest)."
+      }
+    ]
+  },
+  {
+    "id": "loot_100",
+    "category": "loot",
+    "title": "Таблиця нагород за босів",
+    "content": "**Нагороди за босів:**\n- Судія Ґундир (Iudex Gundyr): Coiled Sword.\n- Вордт із Бореальної долини (Vordt of the Boreal Valley): Soul of Boreal Valley Vordt.\n- Curse-Rotted Greatwood: Soul of the Rotted Greatwood, Transposing Kiln.\n- Crystal Sage: Soul of a Crystal Sage.\n- Deacons of the Deep: Soul of the Deacons of the Deep, Small Doll.\n- Abyss Watchers: Soul of the Blood of the Wolf, Cinders of a Lord.\n- High Lord Wolnir: Soul of High Lord Wolnir.\n- Old Demon King: Soul of the Old Demon King.\n- Pontiff Sulyvahn: Soul of Pontiff Sulyvahn.\n- Aldrich, Devourer of Gods: Soul of Aldrich, Cinders of a Lord.\n- Yhorm the Giant: Soul of Yhorm the Giant, Cinders of a Lord.\n- Dancer of the Boreal Valley: Soul of the Dancer.\n- Dragonslayer Armour: Soul of Dragonslayer Armour.\n- Oceiros, the Consumed King: Soul of Consumed Oceiros.\n- Champion Gundyr: Soul of Champion Gundyr.\n- Ancient Wyvern: Dragon Head Stone.\n- Nameless King: Soul of the Nameless King.\n- Lothric, Younger Prince and Lorian, Elder Prince: Soul of the Twin Princes, Cinders of a Lord.\n- Душа Попелу (Soul of Cinder): Soul of the Lords.\n- Champion's Gravetender and Gravetender Greatwolf: Champion's Bones, Valorheart.\n- Sister Friede and Father Ariandel: Soul of Sister Friede.\n- Demon in Pain, Demon from Below and Demon Prince: Soul of the Demon Prince.\n- Halflight, Spear of the Church: Filianore's Spear Ornament.\n- Darkeater Midir: Soul of Darkeater Midir.\n- Slave Knight Gael: Soul of Slave Knight Gael, Blood of the Dark Soul.",
+    "tags": [
+      "loot",
+      "нагороди",
+      "таблиця",
+      "dark souls 3"
+    ],
+    "source": "Dark Souls III: нагороди за босів",
+    "question": "Які нагороди дають усі боси Dark Souls III?"
+  },
+  {
+    "id": "faq_001",
+    "category": "faq",
+    "title": "Початок гри",
+    "content": "Початкова локація — Кладовище попелу (Cemetery of Ash). Перший бос — Судія Ґундир (Iudex Gundyr), він має 2 фази. Після перемоги над ним гравець потрапляє до Храму вогню (Firelink Shrine), а наступний бос за основним маршрутом — Вордт із Бореальної долини (Vordt of the Boreal Valley) на Високій стіні Лотріка.",
+    "tags": [
+      "faq",
+      "початок гри",
+      "перший бос",
+      "dark souls 3"
+    ],
+    "source": "Вісник Лотріка: базові відомості та правила",
+    "question": "Як починається Dark Souls III і хто перший бос?",
+    "qa": [
+      {
+        "q": "Хто перший бос у Dark Souls III?",
+        "a": "Перший бос — Судія Ґундир (Iudex Gundyr).\nВін знаходиться на Кладовищі попелу (Cemetery of Ash)."
+      },
+      {
+        "q": "Який бос наступний після Судді Ґундира?",
+        "a": "Наступний бос за основним маршрутом — Вордт із Бореальної долини (Vordt of the Boreal Valley) на Високій стіні Лотріка (High Wall of Lothric)."
+      },
+      {
+        "q": "Що таке High Wall of Lothric?",
+        "a": "Це Висока стіна Лотріка — одна з початкових локацій Dark Souls III."
+      },
+      {
+        "q": "Це High Wall of Lothric — бос?",
+        "a": "Ні, High Wall of Lothric — це локація, а не бос. Саме там знаходиться Вордт із Бореальної долини (Vordt of the Boreal Valley)."
+      },
+      {
+        "q": "Яка початкова локація гри?",
+        "a": "Початкова локація — Кладовище попелу (Cemetery of Ash)."
+      }
+    ]
+  },
+  {
+    "id": "faq_002",
+    "category": "faq",
+    "title": "Фінал гри",
+    "content": "Фінальний бос основної гри — Душа Попелу (Soul of Cinder). Його арена знаходиться в Печі Першого Полум'я (Kiln of the First Flame). Нагорода: Soul of the Lords.",
+    "tags": [
+      "faq",
+      "фінальний бос",
+      "soul of cinder",
+      "dark souls 3"
+    ],
+    "source": "Вісник Лотріка: базові відомості та правила",
+    "question": "Хто фінальний бос основної гри Dark Souls III?",
+    "qa": [
+      {
+        "q": "Де знаходиться Душа Попелу?",
+        "a": "Душа Попелу (Soul of Cinder) знаходиться в Печі Першого Полум'я (Kiln of the First Flame)."
+      }
+    ]
+  },
+  {
+    "id": "faq_003",
+    "category": "faq",
+    "title": "Кількість босів",
+    "content": "У Dark Souls III 25 босів: 19 в основній грі та 6 у доповненнях (2 в Ashes of Ariandel і 4 у The Ringed City). Необов'язкових босів 8: у основній грі — Curse-Rotted Greatwood, Old Demon King, Oceiros, the Consumed King, Champion Gundyr, Ancient Wyvern, Nameless King; у доповненнях — Champion's Gravetender and Gravetender Greatwolf та Darkeater Midir.",
+    "tags": [
+      "faq",
+      "кількість босів",
+      "необов'язкові боси",
+      "dark souls 3"
+    ],
+    "source": "Вісник Лотріка: базові відомості та правила",
+    "question": "Скільки босів у Dark Souls III і які з них необов'язкові?",
+    "qa": [
+      {
+        "q": "Які боси необов'язкові в основній грі?",
+        "a": "Необов'язкові боси основної гри: Curse-Rotted Greatwood, Old Demon King, Oceiros, the Consumed King, Champion Gundyr, Ancient Wyvern, Nameless King."
+      },
+      {
+        "q": "Які боси є в доповненні Ashes of Ariandel?",
+        "a": "В Ashes of Ariandel два боси: Champion's Gravetender and Gravetender Greatwolf; Sister Friede and Father Ariandel."
+      },
+      {
+        "q": "Які боси є в доповненні The Ringed City?",
+        "a": "У The Ringed City боси: Demon in Pain, Demon from Below and Demon Prince; Halflight, Spear of the Church; Darkeater Midir; Slave Knight Gael."
+      },
+      {
+        "q": "Скільки босів у основній грі Dark Souls III?",
+        "a": "В основній грі 19 босів, із них 6 необов'язкові."
+      }
+    ]
+  },
+  {
+    "id": "faq_004",
+    "category": "faq",
+    "title": "Доступ до The Ringed City",
+    "content": "До доповнення The Ringed City можна потрапити через нове багаття в Печі Першого Полум'я (Kiln of the First Flame). Для цього потрібне саме доповнення.",
+    "tags": [
+      "faq",
+      "dlc",
+      "the ringed city",
+      "доступ",
+      "dark souls 3"
+    ],
+    "source": "Вісник Лотріка: базові відомості та правила",
+    "question": "Як потрапити в The Ringed City?"
+  },
+  {
+    "id": "behavior_001",
+    "category": "behavior",
+    "title": "Поведінка помічника",
+    "content": "Вісник Лотріка відповідає лише про Dark Souls III та її доповнення, не вигадує факти, ввічливо виправляє хибні твердження й не розкриває важливі сюжетні подробиці без потреби.",
+    "tags": [
+      "behavior",
+      "відмова",
+      "поза темою",
+      "dark souls 3"
+    ],
+    "source": "Вісник Лотріка: базові відомості та правила",
+    "question": "Чим ти займаєшся і чого не робиш?",
+    "qa": [
+      {
+        "q": "Який найкращий спосіб вивчити Python?",
+        "a": "Попелястий, я допомагаю лише з Dark Souls III. На запитання про Python відповісти не можу."
+      },
+      {
+        "q": "Поясни, як працює фотосинтез.",
+        "a": "Це не стосується Dark Souls III, тому відповісти не можу. Запитай мене про босів, локації чи класи Лотріка."
+      },
+      {
+        "q": "Як перемогти Маленію?",
+        "a": "Маленія не належить до Dark Souls III, тож я не можу про неї розповісти. Я відповідаю лише про цю гру та її доповнення."
+      },
+      {
+        "q": "Де знаходиться Орнштейн і Смоуг із першого Dark Souls?",
+        "a": "Це боси з іншої частини серії, а я відповідаю лише про Dark Souls III."
+      },
+      {
+        "q": "Де знаходиться бос Крижаний Король Моргул?",
+        "a": "Не можу підтвердити існування такого боса в Dark Souls III, тому не буду вигадувати його місцезнаходження."
+      },
+      {
+        "q": "Розкажи про боса Лорд Тіней у Dark Souls III.",
+        "a": "Не можу підтвердити, що такий бос існує в Dark Souls III. Якщо знаєш його англійську назву, спробуй уточнити."
+      },
+      {
+        "q": "Вордт знаходиться в Анор Лондо, так?",
+        "a": "Ні, Вордт із Бореальної долини (Vordt of the Boreal Valley) знаходиться на Високій стіні Лотріка (High Wall of Lothric)."
+      },
+      {
+        "q": "Судія Ґундир має три фази, правильно?",
+        "a": "Ні, Судія Ґундир (Iudex Gundyr) має 2 фази."
+      },
+      {
+        "q": "Першим босом є Вордт, так?",
+        "a": "Ні, першим босом є Судія Ґундир (Iudex Gundyr) на Кладовищі попелу. Вордт — наступний бос за основним маршрутом."
+      },
+      {
+        "q": "Скільки точно HP у Вордта?",
+        "a": "Підтвердженої інформації про точне здоров'я Вордта в мене немає, тому цифру не називатиму."
+      },
+      {
+        "q": "Назви всі атаки Nameless King з точними назвами.",
+        "a": "Точних підтверджених назв усіх його атак у мене немає. Можу лише повідомити, що в нього 2 фази: King of the Storm та Nameless King."
+      },
+      {
+        "q": "Розкажи, чим закінчується сюжет Dark Souls III.",
+        "a": "Я не розкриваю важливі сюжетні подробиці без потреби. Можу розповісти про босів, локації чи класи."
+      },
+      {
+        "q": "Привіт! Хто ти?",
+        "a": "Я Вісник Лотріка — помічник із Dark Souls III. Допоможу знайти босів, зрозуміти їхні фази та підготуватися до бою, Попелястий."
+      },
+      {
+        "q": "Яка зброя найкраща проти Soul of Cinder?",
+        "a": "Перевіреної інформації про найкращу зброю проти Душі Попелу (Soul of Cinder) в мене немає, тому конкретну зброю не радитиму."
+      }
+    ]
+  }
+]
